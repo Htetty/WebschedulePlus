@@ -2,7 +2,9 @@ import { useRef, useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 
 import "mapbox-gl/dist/mapbox-gl.css";
-import locationsData from "../data/locations.json";
+import locationsData from "../assets/data/locations.json";
+import pinIcon from "../../shared/mappin.svg";
+import parkingIcon from "../../shared/parking.svg";
 
 function Mapbox() {
   const mapRef = useRef(null);
@@ -64,12 +66,12 @@ function Mapbox() {
       map.flyTo({ center: school.center, zoom: 17 });
 
       school.buildings.forEach((loc) => {
-        const marker = createMarker(loc, "/mappin.svg");
+        const marker = createMarker(loc, pinIcon);
         markersRef.current.push(marker);
       });
 
       school.studentParking.forEach((loc) => {
-        const marker = createMarker(loc, "/parking.svg");
+        const marker = createMarker(loc, parkingIcon);
         markersRef.current.push(marker);
       });
     }

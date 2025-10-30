@@ -1,17 +1,39 @@
 {
-    "manifest_version": 3,
-    "name": "React Chrome Extension",
-    "version": "1.0.0",
-    "description": "A simple React app as a Chrome extension",
-    "action": {},
-    "side_panel": {
-      "default_path": "index.html"
-    },
-    "background": {
-      "service_worker": "background.js",
-      "type": "module"
-    },
-    "permissions": [
-      "sidePanel"
-    ]
-  }
+  "manifest_version": 3,
+  "name": "Webschedule+",
+  "version": "1.0.0",
+  "description": "Enhances WebSchedule to better help community college students from SMCCCD",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {},
+  "side_panel": {
+    "default_path": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/*"
+      ],
+      "js": ["contentScript.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": ["sidePanel"],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "ScrapedData/all_professors_Skyline.json",
+        "ScrapedData/all_professors_CSM.json",
+        "ScrapedData/all_professors_Canada.json"
+      ],
+      "matches": ["https://phx-ban-apps.smccd.edu/*", "https://*.smccd.edu/*"]
+    }
+  ]
+}

@@ -1,15 +1,17 @@
-export default function Header() {
+import logo from "../../shared/logo.png";
+
+function Header() {
   return (
     <div className="w-full bg-[#1E1E2E] px-4 py-4 relative">
       <div className="flex items-center gap-3">
         <img
-          src="/logo.png"
+          src={logo}
           alt="Calendar Icon"
           className="w-[50px] h-[50px] -mt-1"
         />
         <div className="flex flex-col justify-center">
           <h1 className="text-white text-[22px] leading-tight font-semibold">
-            BetterWebSchedule
+            WebSchedule+
           </h1>
           <p className="text-sm text-gray-300">
             Enhance Your WebSchedule Experience
@@ -31,3 +33,5 @@ export default function Header() {
     </div>
   );
 }
+
+export default Header;

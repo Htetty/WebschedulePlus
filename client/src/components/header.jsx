@@ -23,7 +23,7 @@ export default function Header() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <button className="bg-[#FFD700] hover:bg-[#FFC300] text-[#002F65] font-semibold py-2 px-3 rounded-md transition-colors">
+          <button className="bg-[#FFD700] text-[#002F65] font-semibold py-2 px-3 rounded-lg hover:bg-[#FFC300]">
             Go to WebSchedule
           </button>
         </a>

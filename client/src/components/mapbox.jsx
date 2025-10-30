@@ -51,7 +51,9 @@ function Mapbox() {
         .setLngLat([location.lng, location.lat])
         .setPopup(
           new mapboxgl.Popup({ offset: 25 }).setHTML(`
-                    <strong>${location.name}</strong><br><span style="font-size: 13px;">${location.description}</span>
+                    <strong style="font-size: 16px; font-weight: bold;">${location.name}</strong><br>
+                    <span style="font-size: 13px;">${location.description}
+                    </span>
                 `)
         )
         .addTo(map);
@@ -62,12 +64,12 @@ function Mapbox() {
       map.flyTo({ center: school.center, zoom: 17 });
 
       school.buildings.forEach((loc) => {
-        const marker = createMarker(loc, "/redpin.png");
+        const marker = createMarker(loc, "/mappin.svg");
         markersRef.current.push(marker);
       });
 
       school.studentParking.forEach((loc) => {
-        const marker = createMarker(loc, "/car-park.png");
+        const marker = createMarker(loc, "/parking.svg");
         markersRef.current.push(marker);
       });
     }
@@ -120,24 +122,24 @@ function Mapbox() {
   return (
     <div className="relative w-full h-full">
       <div ref={mapContainerRef} className="w-full h-full" />
-      <div className="absolute top-4 z-10 flex flex-row justify-center items-center w-full gap-2">
+      <div className="absolute top-4 z-10 grid grid-col left-5 gap-5 mapbox-controls">
         <button
           onClick={handleSkylineClick}
-          className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded shadow-lg"
+          className="bg-[#F03D3A] text-md rounded-lg"
         >
           Skyline
         </button>
         <button
-          onClick={handleCanadaClick}
-          className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded shadow-lg"
-        >
-          Canada
-        </button>
-        <button
           onClick={handleCsmClick}
-          className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded shadow-lg"
+          className="bg-[#004990] text-md rounded-lg"
         >
           CSM
+        </button>
+        <button
+          onClick={handleCanadaClick}
+          className="bg-[#205C40] rounded-lg text-md"
+        >
+          Canada
         </button>
       </div>
     </div>

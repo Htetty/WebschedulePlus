@@ -1,8 +1,32 @@
 export default function Header() {
   return (
-    <div className="absolute w-full h-full bg-[#1E1E2E]">
-      <div className="flex flex-row justify-center items-center w-full gap-2">
-        <h1 className="text-2xl font-bold text-white">Webschedule+</h1>
+    <div className="w-full bg-[#1E1E2E] px-4 py-4 relative">
+      <div className="flex items-center gap-3">
+        <img
+          src="/logo.png"
+          alt="Calendar Icon"
+          className="w-[50px] h-[50px] -mt-1"
+        />
+        <div className="flex flex-col justify-center">
+          <h1 className="text-white text-[22px] leading-tight font-semibold">
+            BetterWebSchedule
+          </h1>
+          <p className="text-sm text-gray-300">
+            Enhance Your WebSchedule Experience
+          </p>
+        </div>
+      </div>
+
+      <div className="mt-3">
+        <a
+          href="https://webschedule.smccd.edu/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button className="bg-[#FFD700] hover:bg-[#FFC300] text-[#002F65] font-semibold py-2 px-3 rounded-md transition-colors">
+            Go to WebSchedule
+          </button>
+        </a>
       </div>
     </div>
   );

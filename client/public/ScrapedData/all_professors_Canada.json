@@ -1,0 +1,5053 @@
+[
+  {
+    "firstName": "Lezlee",
+    "lastName": "Ware",
+    "avgRating": 2.5,
+    "numRatings": 86,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 40.0,
+    "department": "Political Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1755276",
+    "tags": [
+      "GET READY TO READ",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Terzakis",
+    "avgRating": 4.4,
+    "numRatings": 66,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 84.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/691489",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "INSPIRATIONAL",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Chase",
+    "lastName": "Mirassou",
+    "avgRating": 1.0,
+    "numRatings": 1,
+    "avgDifficulty": 5.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Social Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3081086",
+    "tags": []
+  },
+  {
+    "firstName": "Althea",
+    "lastName": "Kippes",
+    "avgRating": 3.8,
+    "numRatings": 6,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2712035",
+    "tags": [
+      "CARING",
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Judy",
+    "lastName": "Choy",
+    "avgRating": 4.5,
+    "numRatings": 13,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 78.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1146429",
+    "tags": [
+      "AMAZING LECTURES",
+      "LOTS OF HOMEWORK",
+      "CLEAR GRADING CRITERIA",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Tracy",
+    "lastName": "DeHaan",
+    "avgRating": 4.5,
+    "numRatings": 12,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 75.0,
+    "department": "Sociology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2668646",
+    "tags": [
+      "CARING",
+      "CLEAR GRADING CRITERIA",
+      "AMAZING LECTURES",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Raymond",
+    "lastName": "Lapuz",
+    "avgRating": 3.5,
+    "numRatings": 90,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/399754",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "EXTRA CREDIT",
+      "TEST HEAVY",
+      "CLEAR GRADING CRITERIA",
+      "TOUGH GRADER"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Monarres",
+    "avgRating": 4.3,
+    "numRatings": 40,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 88.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1797946",
+    "tags": [
+      "AMAZING LECTURES",
+      "CARING",
+      "RESPECTED",
+      "GIVES GOOD FEEDBACK",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Doniella",
+    "lastName": "Maher",
+    "avgRating": 4.0,
+    "numRatings": 19,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPercent": 65.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1940257",
+    "tags": [
+      "GET READY TO READ",
+      "TOUGH GRADER",
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Elna",
+    "lastName": "Murcia Cordoba",
+    "avgRating": 4.0,
+    "numRatings": 3,
+    "avgDifficulty": 4.3,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Medical Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2665447",
+    "tags": [
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "BEWARE OF POP QUIZZES",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Mark",
+    "lastName": "Harrison",
+    "avgRating": 3.6,
+    "numRatings": 44,
+    "avgDifficulty": 2.1,
+    "wouldTakeAgainPercent": 71.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1167678",
+    "tags": [
+      "HILARIOUS",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": ".",
+    "lastName": "Meng",
+    "avgRating": 4.4,
+    "numRatings": 28,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 70.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/891935",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Perez",
+    "avgRating": 2.7,
+    "numRatings": 20,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 35.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2384507",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Nichole",
+    "lastName": "Coleman",
+    "avgRating": 4.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3083595",
+    "tags": [
+      "HILARIOUS",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Sumathi",
+    "lastName": "Shankar",
+    "avgRating": 3.1,
+    "numRatings": 33,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 52.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2291177",
+    "tags": [
+      "LECTURE HEAVY",
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "CARING",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Noel",
+    "avgRating": 5.0,
+    "numRatings": 80,
+    "avgDifficulty": 2.2,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Computer Information Systems",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2591838",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Harmon",
+    "avgRating": 3.3,
+    "numRatings": 20,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 47.0,
+    "department": "Spanish",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1638672",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Bridget",
+    "lastName": "Love",
+    "avgRating": 2.1,
+    "numRatings": 12,
+    "avgDifficulty": 4.8,
+    "wouldTakeAgainPercent": 17.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2595398",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Haley",
+    "lastName": "Sheetz",
+    "avgRating": 5.0,
+    "numRatings": 4,
+    "avgDifficulty": 1.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2952561",
+    "tags": [
+      "HILARIOUS",
+      "CARING",
+      "RESPECTED",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Limm",
+    "avgRating": 3.4,
+    "numRatings": 8,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2879973",
+    "tags": [
+      "GRADED BY FEW THINGS",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Ramin",
+    "lastName": "Ekhtiar",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Marketing",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3076988",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "GROUP PROJECTS",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Gabe",
+    "lastName": "Lewall",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3016927",
+    "tags": [
+      "CARING",
+      "RESPECTED",
+      "INSPIRATIONAL",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Duncan",
+    "lastName": "Lawson",
+    "avgRating": 2.4,
+    "numRatings": 36,
+    "avgDifficulty": 4.1,
+    "wouldTakeAgainPercent": 20.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/952975",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "LOTS OF HOMEWORK",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Swanson",
+    "avgRating": 4.5,
+    "numRatings": 72,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 83.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/734704",
+    "tags": [
+      "AMAZING LECTURES",
+      "GET READY TO READ",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Roque",
+    "lastName": "Coral-Herrera",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Political Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3021607",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Kiran",
+    "lastName": "Malavade",
+    "avgRating": 3.5,
+    "numRatings": 40,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 62.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1734960",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER"
+    ]
+  },
+  {
+    "firstName": "Joan",
+    "lastName": "McQuade",
+    "avgRating": 4.3,
+    "numRatings": 33,
+    "avgDifficulty": 1.3,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1228366",
+    "tags": [
+      "CARING",
+      "GRADED BY FEW THINGS",
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "White",
+    "avgRating": 3.7,
+    "numRatings": 22,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 74.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1936820",
+    "tags": [
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "TOUGH GRADER",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Cudahy",
+    "avgRating": 4.2,
+    "numRatings": 10,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2309486",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA",
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Dykes",
+    "avgRating": 3.0,
+    "numRatings": 4,
+    "avgDifficulty": 1.8,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3012698",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "SO MANY PAPERS"
+    ]
+  },
+  {
+    "firstName": "Rebekah",
+    "lastName": "Taveau",
+    "avgRating": 4.9,
+    "numRatings": 106,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2015445",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "CARING",
+      "RESPECTED",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Hoffman",
+    "avgRating": 4.6,
+    "numRatings": 67,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 81.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1585870",
+    "tags": [
+      "HILARIOUS",
+      "CARING",
+      "LOTS OF HOMEWORK",
+      "AMAZING LECTURES",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Roscelli",
+    "avgRating": 4.5,
+    "numRatings": 77,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 82.0,
+    "department": "Economics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/586105",
+    "tags": [
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "TOUGH GRADER",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Sol",
+    "lastName": "Puenzo",
+    "avgRating": 3.1,
+    "numRatings": 22,
+    "avgDifficulty": 4.2,
+    "wouldTakeAgainPercent": 46.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2609250",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "LECTURE HEAVY",
+      "TEST HEAVY",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Alexa",
+    "lastName": "Moore",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 5.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3072143",
+    "tags": [
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Demello",
+    "avgRating": 4.6,
+    "numRatings": 43,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1440170",
+    "tags": [
+      "CARING",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL",
+      "RESPECTED",
+      "WOULD TAKE AGAIN"
+    ]
+  },
+  {
+    "firstName": "Attila",
+    "lastName": "Elteto",
+    "avgRating": 2.7,
+    "numRatings": 34,
+    "avgDifficulty": 4.1,
+    "wouldTakeAgainPercent": 42.0,
+    "department": "Astronomy",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2133684",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "LECTURE HEAVY",
+      "CLEAR GRADING CRITERIA",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Schwarz",
+    "avgRating": 3.2,
+    "numRatings": 126,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 54.0,
+    "department": "Computer Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1870813",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL",
+      "CLEAR GRADING CRITERIA",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Nathan",
+    "lastName": "Staples",
+    "avgRating": 4.3,
+    "numRatings": 143,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 78.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/616500",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CARING",
+      "EXTRA CREDIT",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Sunil",
+    "lastName": "Shah",
+    "avgRating": 1.3,
+    "numRatings": 14,
+    "avgDifficulty": 4.7,
+    "wouldTakeAgainPercent": 8.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3021356",
+    "tags": [
+      "TOUGH GRADER",
+      "TEST HEAVY",
+      "LOTS OF HOMEWORK",
+      "LECTURE HEAVY",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Mollie",
+    "lastName": "Woodworth",
+    "avgRating": 4.6,
+    "numRatings": 9,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 89.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2273163",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "INSPIRATIONAL",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Malcolm",
+    "lastName": "Gamble",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2976662",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Lance",
+    "lastName": "Lund",
+    "avgRating": 3.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2682633",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "AMAZING LECTURES",
+      "LOTS OF HOMEWORK",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Robin",
+    "lastName": "Lise",
+    "avgRating": 4.6,
+    "numRatings": 18,
+    "avgDifficulty": 2.1,
+    "wouldTakeAgainPercent": 84.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2419464",
+    "tags": [
+      "GET READY TO READ",
+      "CARING",
+      "EXTRA CREDIT",
+      "LOTS OF HOMEWORK",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Cantin",
+    "avgRating": 3.6,
+    "numRatings": 49,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 68.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1788145",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Ramki",
+    "lastName": "Kalyanaraman",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Engineering",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2701993",
+    "tags": [
+      "GET READY TO READ",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA",
+      "INSPIRATIONAL",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Megan",
+    "lastName": "Rodriguez",
+    "avgRating": 4.6,
+    "numRatings": 10,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3002049",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "GROUP PROJECTS",
+      "CARING",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Eileen",
+    "lastName": "Pippins",
+    "avgRating": 1.4,
+    "numRatings": 20,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 10.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2175685",
+    "tags": [
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "GRADED BY FEW THINGS",
+      "GROUP PROJECTS",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Jianyu Yu",
+    "avgRating": 2.8,
+    "numRatings": 4,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2207172",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "CARING",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Chang",
+    "avgRating": 4.6,
+    "numRatings": 19,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 77.0,
+    "department": "Philosophy",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1990185",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Janet",
+    "lastName": "Laurin",
+    "avgRating": 4.8,
+    "numRatings": 11,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPercent": 91.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2311833",
+    "tags": [
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "CLEAR GRADING CRITERIA",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Jason",
+    "lastName": "Dehaan",
+    "avgRating": 4.1,
+    "numRatings": 7,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 72.0,
+    "department": "Sociology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2571092",
+    "tags": [
+      "CARING",
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "TOUGH GRADER",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Naheed",
+    "lastName": "Ferguson",
+    "avgRating": 3.6,
+    "numRatings": 5,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Computer Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2713716",
+    "tags": [
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Coburn",
+    "avgRating": 3.2,
+    "numRatings": 6,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 34.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2149600",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "LECTURE HEAVY",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Amira",
+    "lastName": "Alkeswani",
+    "avgRating": 3.3,
+    "numRatings": 12,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPercent": 59.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2893217",
+    "tags": [
+      "ACCESSIBLE OUTSIDE CLASS",
+      "GET READY TO READ",
+      "EXTRA CREDIT",
+      "CARING",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Douglas",
+    "lastName": "Hirzel",
+    "avgRating": 4.4,
+    "numRatings": 72,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPercent": 88.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/344693",
+    "tags": [
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CARING",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Ritu",
+    "lastName": "Malhotra",
+    "avgRating": 4.3,
+    "numRatings": 17,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 89.0,
+    "department": "Medical Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2636575",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "GET READY TO READ",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS",
+      "GROUP PROJECTS"
+    ]
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Marshall",
+    "avgRating": 3.5,
+    "numRatings": 22,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 56.0,
+    "department": "Anthropology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2063898",
+    "tags": [
+      "GET READY TO READ",
+      "TOUGH GRADER",
+      "CLEAR GRADING CRITERIA",
+      "PARTICIPATION MATTERS",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Palmer",
+    "avgRating": 3.5,
+    "numRatings": 52,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 55.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/336679",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Miladinova",
+    "avgRating": 4.1,
+    "numRatings": 29,
+    "avgDifficulty": 2.2,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Physical Education",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1237387",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "CARING",
+      "RESPECTED",
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Michelle",
+    "lastName": "Beatty",
+    "avgRating": 5.0,
+    "numRatings": 5,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2262242",
+    "tags": [
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Gerardo",
+    "lastName": "Pacheco Matus",
+    "avgRating": 3.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2932216",
+    "tags": [
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Tuttle",
+    "avgRating": 3.8,
+    "numRatings": 5,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 60.0,
+    "department": "Psychology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2734674",
+    "tags": [
+      "LECTURE HEAVY",
+      "TEST HEAVY",
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Luu",
+    "avgRating": 4.4,
+    "numRatings": 41,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 83.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2598744",
+    "tags": [
+      "AMAZING LECTURES",
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA",
+      "LECTURE HEAVY"
+    ]
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Mendez",
+    "avgRating": 4.8,
+    "numRatings": 50,
+    "avgDifficulty": 1.9,
+    "wouldTakeAgainPercent": 89.0,
+    "department": "Career Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1859293",
+    "tags": [
+      "RESPECTED",
+      "CLEAR GRADING CRITERIA",
+      "INSPIRATIONAL",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Marc",
+    "lastName": "Zollinger",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 1.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Music",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2663299",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Partlan",
+    "avgRating": 3.8,
+    "numRatings": 42,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 62.0,
+    "department": "Physics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/612960",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GRADED BY FEW THINGS",
+      "TOUGH GRADER",
+      "CARING",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Schulke",
+    "avgRating": 1.0,
+    "numRatings": 1,
+    "avgDifficulty": 5.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Legal Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3067997",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Camille",
+    "lastName": "Kaslan",
+    "avgRating": 4.3,
+    "numRatings": 10,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 90.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2924654",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "TOUGH GRADER",
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Ami",
+    "lastName": "Smith",
+    "avgRating": 3.8,
+    "numRatings": 55,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 69.0,
+    "department": "Psychology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1860582",
+    "tags": [
+      "GET READY TO READ",
+      "EXTRA CREDIT",
+      "LOTS OF HOMEWORK",
+      "CLEAR GRADING CRITERIA",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Claire",
+    "avgRating": 4.5,
+    "numRatings": 51,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 92.0,
+    "department": "Accounting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/606884",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "RESPECTED",
+      "CLEAR GRADING CRITERIA",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Ellen",
+    "lastName": "Young",
+    "avgRating": 4.6,
+    "numRatings": 16,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 94.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2496565",
+    "tags": [
+      "CARING",
+      "CLEAR GRADING CRITERIA",
+      "INSPIRATIONAL",
+      "LOTS OF HOMEWORK",
+      "GROUP PROJECTS"
+    ]
+  },
+  {
+    "firstName": "Gabriel",
+    "lastName": "Prochter",
+    "avgRating": 4.3,
+    "numRatings": 16,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Astronomy",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1400276",
+    "tags": [
+      "CARING",
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Maureen",
+    "lastName": "Wiley",
+    "avgRating": 4.9,
+    "numRatings": 12,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2337435",
+    "tags": [
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Salumeh",
+    "lastName": "Eslamieh",
+    "avgRating": 4.1,
+    "numRatings": 42,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 78.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/916216",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "TOUGH GRADER"
+    ]
+  },
+  {
+    "firstName": "Helena",
+    "lastName": "Almassy",
+    "avgRating": 4.6,
+    "numRatings": 5,
+    "avgDifficulty": 1.6,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2947677",
+    "tags": [
+      "AMAZING LECTURES",
+      "PARTICIPATION MATTERS",
+      "GROUP PROJECTS",
+      "CARING",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Allan",
+    "lastName": "Wilcox",
+    "avgRating": 3.9,
+    "numRatings": 54,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 74.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1954969",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Ramakrishnan",
+    "lastName": "Kalyanaraman",
+    "avgRating": 2.3,
+    "numRatings": 3,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPercent": 34.0,
+    "department": "Engineering",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2652132",
+    "tags": [
+      "GROUP PROJECTS",
+      "CLEAR GRADING CRITERIA",
+      "LOTS OF HOMEWORK",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Cravy",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Interior Design",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3027126",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "ONLINE SAVVY"
+    ]
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Ivanova",
+    "avgRating": 2.8,
+    "numRatings": 28,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 25.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1332935",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "LECTURE HEAVY",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Noonan",
+    "avgRating": 4.3,
+    "numRatings": 4,
+    "avgDifficulty": 1.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Political Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2968266",
+    "tags": [
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "RESPECTED",
+      "GRADED BY FEW THINGS"
+    ]
+  },
+  {
+    "firstName": "Garth",
+    "lastName": "Bunse",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 1.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Humanities",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/3025322",
+    "tags": [
+      "TOUGH GRADER",
+      "HILARIOUS",
+      "ONLINE SAVVY"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Eck",
+    "avgRating": 4.7,
+    "numRatings": 32,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 94.0,
+    "department": "Philosophy",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2179136",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Jennifer",
+    "lastName": "Helton",
+    "avgRating": 3.9,
+    "numRatings": 16,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/230281",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Glanting",
+    "avgRating": 4.9,
+    "numRatings": 9,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2395762",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "CARING",
+      "CLEAR GRADING CRITERIA",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Leitner",
+    "avgRating": 4.2,
+    "numRatings": 18,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Anthropology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1579748",
+    "tags": [
+      "EXTRA CREDIT",
+      "CARING",
+      "AMAZING LECTURES",
+      "HILARIOUS",
+      "WOULD TAKE AGAIN"
+    ]
+  },
+  {
+    "firstName": "Bridget",
+    "lastName": "James",
+    "avgRating": 4.7,
+    "numRatings": 18,
+    "avgDifficulty": 1.9,
+    "wouldTakeAgainPercent": 91.0,
+    "department": "Oceanography",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1824919",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "LECTURE HEAVY",
+      "TESTS? NOT MANY"
+    ]
+  },
+  {
+    "firstName": "Emanuela",
+    "lastName": "Quaglia",
+    "avgRating": 4.8,
+    "numRatings": 24,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 96.0,
+    "department": "Digital Arts",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2616676",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "CARING",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Denise",
+    "lastName": "Erickson",
+    "avgRating": 3.8,
+    "numRatings": 70,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 63.0,
+    "department": "Art History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/190254",
+    "tags": [
+      "LECTURE HEAVY",
+      "GRADED BY FEW THINGS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Adam",
+    "lastName": "Fahey",
+    "avgRating": 4.5,
+    "numRatings": 58,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 91.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1235427",
+    "tags": [
+      "CARING",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Gampi",
+    "lastName": "Shankar",
+    "avgRating": 4.5,
+    "numRatings": 21,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2422314",
+    "tags": [
+      "INSPIRATIONAL",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "CARING",
+      "GROUP PROJECTS"
+    ]
+  },
+  {
+    "firstName": "Leonor",
+    "lastName": "Cabrera",
+    "avgRating": 3.8,
+    "numRatings": 57,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 87.0,
+    "department": "Accounting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/947207",
+    "tags": [
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Doug",
+    "lastName": "Woods",
+    "avgRating": 4.6,
+    "numRatings": 32,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 91.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2455642",
+    "tags": [
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Sue",
+    "lastName": "Krishna",
+    "avgRating": 1.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Education",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2691013",
+    "tags": [
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Schuler",
+    "avgRating": 3.4,
+    "numRatings": 7,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 34.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1753082",
+    "tags": [
+      "TOUGH GRADER",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Quijano",
+    "avgRating": 4.8,
+    "numRatings": 25,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Kinesiology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/698308",
+    "tags": [
+      "INSPIRATIONAL",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "WOULD TAKE AGAIN",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Thomson",
+    "avgRating": 4.3,
+    "numRatings": 21,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Microbiology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/931457",
+    "tags": [
+      "LECTURE HEAVY",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "WOULD TAKE AGAIN",
+      "HILARIOUS",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Morales",
+    "avgRating": 4.6,
+    "numRatings": 13,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Art",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/934308",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "RESPECTED",
+      "PARTICIPATION MATTERS",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Stanford",
+    "avgRating": 3.3,
+    "numRatings": 87,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 42.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/882938",
+    "tags": [
+      "GET READY TO READ",
+      "TOUGH GRADER",
+      "LECTURE HEAVY",
+      "LOTS OF HOMEWORK",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Agatha",
+    "lastName": "Kuczera",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2736351",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Lale",
+    "lastName": "Yurtseven",
+    "avgRating": 4.4,
+    "numRatings": 18,
+    "avgDifficulty": 2.1,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1959332",
+    "tags": [
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA",
+      "RESPECTED",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Fahimeh",
+    "lastName": "Faridnia",
+    "avgRating": 4.3,
+    "numRatings": 6,
+    "avgDifficulty": 1.0,
+    "wouldTakeAgainPercent": 84.0,
+    "department": "Career Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2814657",
+    "tags": [
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "RESPECTED",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Lobna",
+    "lastName": "Alamoush",
+    "avgRating": 1.0,
+    "numRatings": 1,
+    "avgDifficulty": 1.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Medical Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2842310",
+    "tags": []
+  },
+  {
+    "firstName": "Malori",
+    "lastName": "Redman",
+    "avgRating": 5.0,
+    "numRatings": 3,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Oceanography",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2873150",
+    "tags": [
+      "INSPIRATIONAL",
+      "HILARIOUS",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Sumithira",
+    "lastName": "Sukumar",
+    "avgRating": 3.0,
+    "numRatings": 2,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Engineering",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2499382",
+    "tags": [
+      "GROUP PROJECTS",
+      "TOUGH GRADER",
+      "GRADED BY FEW THINGS",
+      "ONLINE SAVVY"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Naas",
+    "avgRating": 4.5,
+    "numRatings": 12,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 75.0,
+    "department": "Graphic Arts",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1176201",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Kevyn",
+    "lastName": "Lorenzana",
+    "avgRating": 4.0,
+    "numRatings": 1,
+    "avgDifficulty": 1.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Ethnic Studies",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2980158",
+    "tags": []
+  },
+  {
+    "firstName": "Nance",
+    "lastName": "Carrigan",
+    "avgRating": 4.7,
+    "numRatings": 11,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2010150",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "WOULD TAKE AGAIN",
+      "EXTRA CREDIT",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Yolanda",
+    "lastName": "Valenzuela",
+    "avgRating": 4.3,
+    "numRatings": 20,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/682854",
+    "tags": [
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Klimkovsky",
+    "avgRating": 4.5,
+    "numRatings": 41,
+    "avgDifficulty": 2.2,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/751359",
+    "tags": [
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "WOULD TAKE AGAIN"
+    ]
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Mahoney",
+    "avgRating": 4.5,
+    "numRatings": 19,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Geology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1758061",
+    "tags": [
+      "AMAZING LECTURES",
+      "GET READY TO READ",
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Nada",
+    "lastName": "Nekrep",
+    "avgRating": 3.5,
+    "numRatings": 58,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 61.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2030068",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "CARING",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LECTURE HEAVY"
+    ]
+  },
+  {
+    "firstName": "Alison",
+    "lastName": "Field",
+    "avgRating": 4.7,
+    "numRatings": 39,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/895299",
+    "tags": [
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "CLEAR GRADING CRITERIA",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Sandra",
+    "lastName": "Gu",
+    "avgRating": 3.2,
+    "numRatings": 5,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 60.0,
+    "department": "Music",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2402160",
+    "tags": [
+      "TOUGH GRADER",
+      "GIVES GOOD FEEDBACK",
+      "SO MANY PAPERS",
+      "LECTURE HEAVY",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Lee",
+    "avgRating": 4.4,
+    "numRatings": 68,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 83.0,
+    "department": "Sociology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/585532",
+    "tags": [
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL",
+      "PARTICIPATION MATTERS",
+      "LECTURE HEAVY"
+    ]
+  },
+  {
+    "firstName": "Shamal",
+    "lastName": "Patki",
+    "avgRating": 1.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2899662",
+    "tags": []
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Koppel",
+    "avgRating": 4.3,
+    "numRatings": 7,
+    "avgDifficulty": 1.9,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2120928",
+    "tags": [
+      "INSPIRATIONAL",
+      "RESPECTED",
+      "GROUP PROJECTS",
+      "CLEAR GRADING CRITERIA",
+      "GRADED BY FEW THINGS"
+    ]
+  },
+  {
+    "firstName": "Candice",
+    "lastName": "Nance",
+    "avgRating": 4.4,
+    "numRatings": 50,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 92.0,
+    "department": "International Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1879846",
+    "tags": [
+      "GET READY TO READ",
+      "CARING",
+      "CLEAR GRADING CRITERIA",
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Nadine",
+    "lastName": "Ferguson",
+    "avgRating": 3.8,
+    "numRatings": 9,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Computer Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2849912",
+    "tags": [
+      "TOUGH GRADER",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Bobby",
+    "lastName": "Seals",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Ethnic Studies",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2976659",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "INSPIRATIONAL",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Berenice",
+    "lastName": "Cabrera",
+    "avgRating": 4.9,
+    "numRatings": 7,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2552135",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "EXTRA CREDIT",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Kathleen",
+    "lastName": "Haven",
+    "avgRating": 3.8,
+    "numRatings": 2,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1915364",
+    "tags": [
+      "GROUP PROJECTS",
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Michelle",
+    "lastName": "Williams",
+    "avgRating": 2.9,
+    "numRatings": 11,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPercent": 34.0,
+    "department": "Economics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1419777",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "TEST HEAVY",
+      "GRADED BY FEW THINGS",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Ronda",
+    "lastName": "Chaney",
+    "avgRating": 4.8,
+    "numRatings": 12,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Fashion",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1010005",
+    "tags": [
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Judy",
+    "lastName": "Jackson",
+    "avgRating": 4.0,
+    "numRatings": 4,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 75.0,
+    "department": "Fashion",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2154362",
+    "tags": [
+      "AMAZING LECTURES",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Kevin",
+    "lastName": "Nelson",
+    "avgRating": 4.2,
+    "numRatings": 6,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Economics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1916139",
+    "tags": [
+      "ACCESSIBLE OUTSIDE CLASS",
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA",
+      "LOTS OF HOMEWORK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Dr.",
+    "lastName": "Jean Dupon",
+    "avgRating": 2.5,
+    "numRatings": 2,
+    "avgDifficulty": 4.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1911955",
+    "tags": [
+      "TOUGH GRADER",
+      "TESTS ARE TOUGH",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Anna",
+    "lastName": "Budd",
+    "avgRating": 3.5,
+    "numRatings": 20,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 72.0,
+    "department": "Theater",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1136742",
+    "tags": [
+      "CARING",
+      "EXTRA CREDIT",
+      "INSPIRATIONAL",
+      "HILARIOUS",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Jeanette",
+    "lastName": "Green",
+    "avgRating": 2.9,
+    "numRatings": 33,
+    "avgDifficulty": 4.2,
+    "wouldTakeAgainPercent": 45.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1843433",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "TEST HEAVY",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Jeanne",
+    "lastName": "Digel",
+    "avgRating": 3.1,
+    "numRatings": 36,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 42.0,
+    "department": "Astronomy",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1022967",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "GET READY TO READ",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Meckler",
+    "avgRating": 2.9,
+    "numRatings": 32,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 38.0,
+    "department": "Music",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/451278",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "LECTURE HEAVY",
+      "TEST HEAVY",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "TOUGH GRADER"
+    ]
+  },
+  {
+    "firstName": "Lucia",
+    "lastName": "Olson",
+    "avgRating": 3.7,
+    "numRatings": 13,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPercent": 58.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1642467",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Patty",
+    "lastName": "Hall",
+    "avgRating": 4.9,
+    "numRatings": 9,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1922568",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "INSPIRATIONAL",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Monica",
+    "lastName": "Malamud",
+    "avgRating": 3.4,
+    "numRatings": 20,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 75.0,
+    "department": "Spanish",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/851700",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "LOTS OF HOMEWORK",
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Amira",
+    "lastName": "Abedrabbo",
+    "avgRating": 4.7,
+    "numRatings": 18,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 89.0,
+    "department": "Spanish",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1864069",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "CARING",
+      "EXTRA CREDIT",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Betsy",
+    "lastName": "Mueller",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Interior Design",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2874984",
+    "tags": [
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Bachir",
+    "lastName": "Hadid",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2818986",
+    "tags": [
+      "INSPIRATIONAL",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Elsa",
+    "lastName": "Torres",
+    "avgRating": 4.2,
+    "numRatings": 5,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Interior Design",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2104608",
+    "tags": [
+      "CARING",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS",
+      "GROUP PROJECTS",
+      "WOULD TAKE AGAIN"
+    ]
+  },
+  {
+    "firstName": "Diane",
+    "lastName": "Wakeham",
+    "avgRating": 4.6,
+    "numRatings": 7,
+    "avgDifficulty": 3.9,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/852652",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Bridgette",
+    "lastName": "M'Guinness",
+    "avgRating": 4.7,
+    "numRatings": 26,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 88.0,
+    "department": "Political Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/104685",
+    "tags": [
+      "AMAZING LECTURES",
+      "CARING",
+      "RESPECTED",
+      "HILARIOUS",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Kaven",
+    "avgRating": 4.3,
+    "numRatings": 28,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1678451",
+    "tags": [
+      "TOUGH GRADER",
+      "HILARIOUS",
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Innerst",
+    "avgRating": 4.9,
+    "numRatings": 118,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 96.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/474058",
+    "tags": [
+      "EXTRA CREDIT",
+      "RESPECTED",
+      "CLEAR GRADING CRITERIA",
+      "AMAZING LECTURES",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Juleh",
+    "lastName": "Mclintock",
+    "avgRating": 1.6,
+    "numRatings": 8,
+    "avgDifficulty": 4.6,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2260522",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LECTURE HEAVY",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Katie",
+    "lastName": "Perkins",
+    "avgRating": 5.0,
+    "numRatings": 3,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Kinesiology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2603890",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "GRADED BY FEW THINGS",
+      "INSPIRATIONAL",
+      "RESPECTED",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Jaime",
+    "lastName": "Dubeibe",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Psychology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2886288",
+    "tags": [
+      "AMAZING LECTURES",
+      "INSPIRATIONAL",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Rafael",
+    "lastName": "Rivera",
+    "avgRating": 2.3,
+    "numRatings": 8,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 40.0,
+    "department": "Radiological Sciences",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1465072",
+    "tags": [
+      "TOUGH GRADER",
+      "RESPECTED",
+      "TEST HEAVY",
+      "GET READY TO READ",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Levalasi",
+    "lastName": "Loi-On",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Ethnic Studies",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2863947",
+    "tags": [
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Cheri",
+    "lastName": "Markt",
+    "avgRating": 3.1,
+    "numRatings": 8,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 63.0,
+    "department": "Engineering",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2152288",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA",
+      "LECTURE HEAVY",
+      "TOUGH GRADER",
+      "GROUP PROJECTS"
+    ]
+  },
+  {
+    "firstName": "Angela",
+    "lastName": "Gibson",
+    "avgRating": 1.7,
+    "numRatings": 3,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Oceanography",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2464751",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "LECTURE HEAVY",
+      "GRADED BY FEW THINGS"
+    ]
+  },
+  {
+    "firstName": "Sarita",
+    "lastName": "Santos",
+    "avgRating": 4.4,
+    "numRatings": 14,
+    "avgDifficulty": 2.2,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2294827",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "AMAZING LECTURES",
+      "TOUGH GRADER",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Po",
+    "lastName": "Tong",
+    "avgRating": 4.6,
+    "numRatings": 38,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2050740",
+    "tags": [
+      "AMAZING LECTURES",
+      "CARING",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "RESPECTED",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Rika",
+    "lastName": "Fabian",
+    "avgRating": 4.0,
+    "numRatings": 9,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Sociology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1817118",
+    "tags": [
+      "GET READY TO READ",
+      "TOUGH GRADER",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "TESTS ARE TOUGH"
+    ]
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Fatum",
+    "avgRating": 3.0,
+    "numRatings": 3,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 34.0,
+    "department": "Social Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2186918",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "LECTURE HEAVY",
+      "INSPIRATIONAL",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Khazar",
+    "lastName": "James",
+    "avgRating": 2.9,
+    "numRatings": 6,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Art",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1727215",
+    "tags": [
+      "INSPIRATIONAL",
+      "LECTURE HEAVY",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "John",
+    "lastName": "Saunders",
+    "avgRating": 1.0,
+    "numRatings": 1,
+    "avgDifficulty": 5.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2390635",
+    "tags": [
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Gainey",
+    "avgRating": 5.0,
+    "numRatings": 4,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Digital Arts",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2656770",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "CARING",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Bernadette",
+    "lastName": "Newland",
+    "avgRating": 2.0,
+    "numRatings": 1,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Medical Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2666014",
+    "tags": [
+      "CARING",
+      "GRADED BY FEW THINGS"
+    ]
+  },
+  {
+    "firstName": "Jeanette",
+    "lastName": "Medina",
+    "avgRating": 3.9,
+    "numRatings": 49,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 64.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/780979",
+    "tags": [
+      "CARING",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "CLEAR GRADING CRITERIA",
+      "TEST HEAVY",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Smith",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 1.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Education",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2750103",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Brian",
+    "lastName": "Bennett",
+    "avgRating": 4.5,
+    "numRatings": 15,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2599021",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Daniella",
+    "lastName": "Maher",
+    "avgRating": 4.9,
+    "numRatings": 10,
+    "avgDifficulty": 1.9,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1295554",
+    "tags": [
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Patricia",
+    "lastName": "Hall",
+    "avgRating": 3.9,
+    "numRatings": 14,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPercent": 65.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2291615",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "GET READY TO READ",
+      "RESPECTED",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Elena",
+    "lastName": "Ivanova",
+    "avgRating": 2.8,
+    "numRatings": 28,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 25.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1332935",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "LECTURE HEAVY",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Teresa",
+    "lastName": "Bittner",
+    "avgRating": 4.0,
+    "numRatings": 1,
+    "avgDifficulty": 5.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2615901",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "LECTURE HEAVY",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Radu",
+    "lastName": "Toma",
+    "avgRating": 3.6,
+    "numRatings": 32,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/705549",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LOTS OF HOMEWORK",
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Guibo",
+    "lastName": "Zhu",
+    "avgRating": 5.0,
+    "numRatings": 5,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2315442",
+    "tags": [
+      "CARING",
+      "INSPIRATIONAL",
+      "RESPECTED",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "EXTRA CREDIT"
+    ]
+  },
+  {
+    "firstName": "Jan",
+    "lastName": "Lawrence",
+    "avgRating": 3.6,
+    "numRatings": 14,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1094741",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "INSPIRATIONAL"
+    ]
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Gaspar",
+    "avgRating": 4.9,
+    "numRatings": 10,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Kinesiology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1712261",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Haine",
+    "avgRating": 4.0,
+    "numRatings": 22,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 58.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/451282",
+    "tags": [
+      "GET READY TO READ",
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Smith",
+    "avgRating": 3.4,
+    "numRatings": 5,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2413033",
+    "tags": [
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "AMAZING LECTURES",
+      "SO MANY PAPERS"
+    ]
+  },
+  {
+    "firstName": "Peggy",
+    "lastName": "Perruccio",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Fashion",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2411528",
+    "tags": [
+      "INSPIRATIONAL",
+      "CARING",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Schweppe",
+    "avgRating": 4.2,
+    "numRatings": 20,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1322798",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Jill",
+    "lastName": "Sumstad",
+    "avgRating": 4.5,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2329945",
+    "tags": [
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK",
+      "GRADED BY FEW THINGS",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Jett",
+    "lastName": "Chinn",
+    "avgRating": 3.7,
+    "numRatings": 62,
+    "avgDifficulty": 4.6,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1219164",
+    "tags": [
+      "LECTURE HEAVY",
+      "BEWARE OF POP QUIZZES",
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "TEST HEAVY"
+    ]
+  },
+  {
+    "firstName": "Ben",
+    "lastName": "Stefonik",
+    "avgRating": 4.6,
+    "numRatings": 9,
+    "avgDifficulty": 2.2,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Psychology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1122343",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Gheisa",
+    "lastName": "(Andrea) Schmidt",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Dance",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2708508",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Huynh",
+    "avgRating": 1.8,
+    "numRatings": 6,
+    "avgDifficulty": 4.3,
+    "wouldTakeAgainPercent": 17.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2612492",
+    "tags": [
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LOTS OF HOMEWORK",
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Robert",
+    "lastName": "Tricca",
+    "avgRating": 4.3,
+    "numRatings": 48,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 95.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1304250",
+    "tags": [
+      "CARING",
+      "RESPECTED",
+      "CLEAR GRADING CRITERIA",
+      "AMAZING LECTURES",
+      "WOULD TAKE AGAIN"
+    ]
+  },
+  {
+    "firstName": "Mariella",
+    "lastName": "Thaning",
+    "avgRating": 3.0,
+    "numRatings": 2,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2347566",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "GROUP PROJECTS",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Barbara",
+    "lastName": "Velline",
+    "avgRating": 5.0,
+    "numRatings": 4,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Accounting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2470518",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "danielle",
+    "lastName": "pelletier",
+    "avgRating": 3.3,
+    "numRatings": 3,
+    "avgDifficulty": 4.3,
+    "wouldTakeAgainPercent": 34.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2288831",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "EXTRA CREDIT",
+      "INSPIRATIONAL",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Hyla",
+    "lastName": "Lacefield",
+    "avgRating": 3.8,
+    "numRatings": 11,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Digital Arts",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1692637",
+    "tags": [
+      "INSPIRATIONAL",
+      "GIVES GOOD FEEDBACK",
+      "PARTICIPATION MATTERS",
+      "TESTS? NOT MANY",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Denise",
+    "lastName": "Hum",
+    "avgRating": 3.4,
+    "numRatings": 34,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 40.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1230786",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "William",
+    "lastName": "Haines",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2560936",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Taliha",
+    "lastName": "Pasaoglu",
+    "avgRating": 5.0,
+    "numRatings": 3,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2332172",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "RESPECTED",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "WOULD TAKE AGAIN",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Alicia",
+    "lastName": "Aguirre",
+    "avgRating": 4.3,
+    "numRatings": 15,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/957601",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "LECTURE HEAVY"
+    ]
+  },
+  {
+    "firstName": "Eric",
+    "lastName": "Yap",
+    "avgRating": 1.3,
+    "numRatings": 3,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Accounting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2226198",
+    "tags": [
+      "TEST HEAVY",
+      "GET READY TO READ",
+      "LOTS OF HOMEWORK",
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Anthony",
+    "lastName": "Perez",
+    "avgRating": 4.2,
+    "numRatings": 48,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/451267",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "GROUP PROJECTS",
+      "GIVES GOOD FEEDBACK",
+      "INSPIRATIONAL",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Richard",
+    "lastName": "Follansbee",
+    "avgRating": 3.5,
+    "numRatings": 71,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 43.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/451279",
+    "tags": [
+      "TOUGH GRADER",
+      "LOTS OF HOMEWORK",
+      "BEWARE OF POP QUIZZES",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Kimberly",
+    "lastName": "Kirchoff-Stein",
+    "avgRating": 4.8,
+    "numRatings": 27,
+    "avgDifficulty": 2.2,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/104683",
+    "tags": [
+      "CARING",
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK",
+      "HILARIOUS",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Danielle",
+    "lastName": "Behonick",
+    "avgRating": 4.5,
+    "numRatings": 50,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 95.0,
+    "department": "Health Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1292447",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "AMAZING LECTURES",
+      "GIVES GOOD FEEDBACK",
+      "HILARIOUS",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Anniqua",
+    "lastName": "Rana",
+    "avgRating": 4.5,
+    "numRatings": 13,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/407089",
+    "tags": []
+  },
+  {
+    "firstName": "Che",
+    "lastName": "Meneses",
+    "avgRating": 3.6,
+    "numRatings": 11,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 73.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2335024",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "INSPIRATIONAL",
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Bertens",
+    "avgRating": 3.0,
+    "numRatings": 6,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/283974",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Smith",
+    "avgRating": 5.0,
+    "numRatings": 3,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Web Design",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2457773",
+    "tags": [
+      "INSPIRATIONAL",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Gangel",
+    "avgRating": 4.2,
+    "numRatings": 61,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPercent": 93.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/246388",
+    "tags": [
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "GIVES GOOD FEEDBACK",
+      "RESPECTED",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Nik",
+    "lastName": "Tehrani",
+    "avgRating": 2.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2496572",
+    "tags": [
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA",
+      "SO MANY PAPERS"
+    ]
+  },
+  {
+    "firstName": "Karie",
+    "lastName": "Tappmeyer",
+    "avgRating": 2.7,
+    "numRatings": 19,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Speech Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1253102",
+    "tags": [
+      "CARING",
+      "GROUP PROJECTS",
+      "TESTS? NOT MANY",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Tomas",
+    "lastName": "Torok",
+    "avgRating": 3.8,
+    "numRatings": 45,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 80.0,
+    "department": "Microbiology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/648831",
+    "tags": [
+      "CARING",
+      "INSPIRATIONAL",
+      "RESPECTED",
+      "ACCESSIBLE OUTSIDE CLASS",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Melinda",
+    "lastName": "Day",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2384704",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Nick",
+    "lastName": "Maffei",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2483670",
+    "tags": [
+      "HILARIOUS",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Clay",
+    "avgRating": 3.7,
+    "numRatings": 37,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 84.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/505674",
+    "tags": [
+      "TOUGH GRADER",
+      "GROUP PROJECTS",
+      "CARING",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Kristen",
+    "lastName": "Parks",
+    "avgRating": 4.3,
+    "numRatings": 17,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 90.0,
+    "department": "Political Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1733154",
+    "tags": [
+      "CARING",
+      "AMAZING LECTURES",
+      "INSPIRATIONAL",
+      "HILARIOUS",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Martin",
+    "avgRating": 3.7,
+    "numRatings": 11,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Career Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1881717",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "TESTS? NOT MANY",
+      "GIVES GOOD FEEDBACK",
+      "LOTS OF HOMEWORK",
+      "HILARIOUS"
+    ]
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Barile",
+    "avgRating": 4.8,
+    "numRatings": 11,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Chemistry",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2085058",
+    "tags": [
+      "AMAZING LECTURES",
+      "CARING",
+      "INSPIRATIONAL",
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Amelito",
+    "lastName": "Enriquez",
+    "avgRating": 4.8,
+    "numRatings": 24,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Engineering",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/449669",
+    "tags": [
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "CARING",
+      "RESPECTED",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Carol",
+    "lastName": "Rhodes",
+    "avgRating": 3.2,
+    "numRatings": 43,
+    "avgDifficulty": 3.9,
+    "wouldTakeAgainPercent": 73.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/888110",
+    "tags": [
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "CARING",
+      "GIVES GOOD FEEDBACK",
+      "LECTURE HEAVY"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Stegner",
+    "avgRating": 3.5,
+    "numRatings": 23,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 30.0,
+    "department": "Psychology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1152836",
+    "tags": [
+      "EXTRA CREDIT",
+      "GET READY TO READ",
+      "LECTURE HEAVY",
+      "TEST HEAVY",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Soraya",
+    "lastName": "Sohrabi",
+    "avgRating": 4.0,
+    "numRatings": 2,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Career Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1361626",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "SO MANY PAPERS",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Thaddeus",
+    "lastName": "Allen",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2388136",
+    "tags": [
+      "AMAZING LECTURES",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Frank",
+    "lastName": "Young",
+    "avgRating": 2.9,
+    "numRatings": 43,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Philosophy",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/451276",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "TESTS ARE TOUGH"
+    ]
+  },
+  {
+    "firstName": "Malcolm",
+    "lastName": "Mafi",
+    "avgRating": 4.9,
+    "numRatings": 7,
+    "avgDifficulty": 2.9,
+    "wouldTakeAgainPercent": 86.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2233457",
+    "tags": [
+      "GRADED BY FEW THINGS",
+      "AMAZING LECTURES",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Rose",
+    "lastName": "Bertha",
+    "avgRating": 1.0,
+    "numRatings": 1,
+    "avgDifficulty": 5.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2264541",
+    "tags": [
+      "TOUGH GRADER"
+    ]
+  },
+  {
+    "firstName": "David",
+    "lastName": "Hamilton",
+    "avgRating": 4.8,
+    "numRatings": 16,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Communication",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1939367",
+    "tags": [
+      "HILARIOUS",
+      "PARTICIPATION MATTERS",
+      "CARING",
+      "WOULD TAKE AGAIN",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Bahij",
+    "lastName": "Hanhan",
+    "avgRating": 4.8,
+    "numRatings": 5,
+    "avgDifficulty": 1.4,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1948299",
+    "tags": [
+      "CARING",
+      "HILARIOUS",
+      "AMAZING LECTURES",
+      "WOULD TAKE AGAIN",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Melinda",
+    "lastName": "Ramzel",
+    "avgRating": 5.0,
+    "numRatings": 3,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2163778",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "EXTRA CREDIT",
+      "GIVES GOOD FEEDBACK",
+      "GROUP PROJECTS",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Anjana",
+    "lastName": "Joshi",
+    "avgRating": 2.0,
+    "numRatings": 1,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Interior Design",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2261913",
+    "tags": []
+  },
+  {
+    "firstName": "Yvette",
+    "lastName": "Butterworth",
+    "avgRating": 3.3,
+    "numRatings": 4,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1971178",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "WOULD TAKE AGAIN",
+      "LOTS OF HOMEWORK"
+    ]
+  },
+  {
+    "firstName": "Paul",
+    "lastName": "Welles",
+    "avgRating": 3.0,
+    "numRatings": 3,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1825295",
+    "tags": [
+      "TOUGH GRADER",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CARING",
+      "TEST HEAVY",
+      "GRADED BY FEW THINGS"
+    ]
+  },
+  {
+    "firstName": "Ginny",
+    "lastName": "Bowen",
+    "avgRating": 4.1,
+    "numRatings": 14,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Fine Arts",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/657574",
+    "tags": [
+      "GIVES GOOD FEEDBACK",
+      "RESPECTED",
+      "PARTICIPATION MATTERS",
+      "INSPIRATIONAL",
+      "GROUP PROJECTS"
+    ]
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Freyberg",
+    "avgRating": 3.5,
+    "numRatings": 23,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 64.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1063773",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "GET READY TO READ",
+      "GIVES GOOD FEEDBACK",
+      "CARING",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Barry",
+    "lastName": "Thompson",
+    "avgRating": 2.8,
+    "numRatings": 5,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1942098",
+    "tags": [
+      "TOUGH GRADER",
+      "WOULD TAKE AGAIN",
+      "LOTS OF HOMEWORK",
+      "EXTRA CREDIT",
+      "BEWARE OF POP QUIZZES"
+    ]
+  },
+  {
+    "firstName": "Cheryl",
+    "lastName": "Cathy",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Engineering",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2379724",
+    "tags": [
+      "INSPIRATIONAL",
+      "CARING"
+    ]
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Jerrard",
+    "avgRating": 5.0,
+    "numRatings": 2,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2052132",
+    "tags": [
+      "EXTRA CREDIT",
+      "GROUP PROJECTS",
+      "CLEAR GRADING CRITERIA",
+      "CARING",
+      "RESPECTED"
+    ]
+  },
+  {
+    "firstName": "Theresa",
+    "lastName": "Zemla",
+    "avgRating": 2.1,
+    "numRatings": 17,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 67.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1187610",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "EXTRA CREDIT",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Darafshi",
+    "lastName": "Parvaneh",
+    "avgRating": 1.2,
+    "numRatings": 10,
+    "avgDifficulty": 4.5,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1638143",
+    "tags": [
+      "TOUGH GRADER",
+      "TESTS ARE TOUGH",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "LECTURE HEAVY",
+      "PARTICIPATION MATTERS"
+    ]
+  },
+  {
+    "firstName": "Lisa",
+    "lastName": "Bjerknes",
+    "avgRating": 3.8,
+    "numRatings": 36,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1032162",
+    "tags": [
+      "GET READY TO READ",
+      "TOUGH GRADER",
+      "TEST HEAVY",
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Anita",
+    "lastName": "Fors",
+    "avgRating": 3.1,
+    "numRatings": 4,
+    "avgDifficulty": 4.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Physics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1777512",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "AMAZING LECTURES",
+      "WOULD TAKE AGAIN",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Jenny",
+    "lastName": "Fichmann",
+    "avgRating": 2.2,
+    "numRatings": 33,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/848182",
+    "tags": [
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Charles",
+    "lastName": "Carlson",
+    "avgRating": 4.5,
+    "numRatings": 25,
+    "avgDifficulty": 1.8,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "History",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/451283",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "TESTS? NOT MANY",
+      "GIVES GOOD FEEDBACK",
+      "HILARIOUS",
+      "SO MANY PAPERS"
+    ]
+  },
+  {
+    "firstName": "James",
+    "lastName": "Smiley",
+    "avgRating": 4.6,
+    "numRatings": 19,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1008960",
+    "tags": [
+      "GET READY TO READ",
+      "EXTRA CREDIT",
+      "CLEAR GRADING CRITERIA"
+    ]
+  },
+  {
+    "firstName": "Wanda",
+    "lastName": "Nalls",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Social Work",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2226721",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "SO MANY PAPERS",
+      "ACCESSIBLE OUTSIDE CLASS"
+    ]
+  },
+  {
+    "firstName": "Jess",
+    "lastName": "Miller",
+    "avgRating": 4.3,
+    "numRatings": 2,
+    "avgDifficulty": 2.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Humanities",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1822360",
+    "tags": [
+      "AMAZING LECTURES",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Nagler",
+    "avgRating": 4.4,
+    "numRatings": 12,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPercent": 50.0,
+    "department": "Literature",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/104681",
+    "tags": [
+      "TOUGH GRADER",
+      "CLEAR GRADING CRITERIA",
+      "GRADED BY FEW THINGS"
+    ]
+  },
+  {
+    "firstName": "Muwafaqu",
+    "lastName": "Dr. Al Al-Asad",
+    "avgRating": 1.0,
+    "numRatings": 3,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Medical Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2117501",
+    "tags": [
+      "LOTS OF HOMEWORK",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "BEWARE OF POP QUIZZES"
+    ]
+  },
+  {
+    "firstName": "Joe",
+    "lastName": "Amable",
+    "avgRating": 3.4,
+    "numRatings": 13,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Spanish",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1293563",
+    "tags": [
+      "TOUGH GRADER",
+      "PARTICIPATION MATTERS",
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CLEAR GRADING CRITERIA",
+      "WOULD TAKE AGAIN"
+    ]
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Clinton",
+    "avgRating": 2.3,
+    "numRatings": 19,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Medical Assisting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1009674",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "WOULD TAKE AGAIN",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "GET READY TO READ"
+    ]
+  },
+  {
+    "firstName": "Sam",
+    "lastName": "Rohde",
+    "avgRating": 3.1,
+    "numRatings": 7,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Humanities",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1031669",
+    "tags": [
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "SKIP CLASS? YOU WON'T PASS."
+    ]
+  },
+  {
+    "firstName": "Nguyen",
+    "lastName": "Tai",
+    "avgRating": 3.3,
+    "numRatings": 5,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Mathematics",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1141098",
+    "tags": [
+      "SKIP CLASS? YOU WON'T PASS.",
+      "CARING",
+      "PARTICIPATION MATTERS",
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK"
+    ]
+  },
+  {
+    "firstName": "Sondra",
+    "lastName": "Saterfield",
+    "avgRating": 1.5,
+    "numRatings": 78,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Psychology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/308530",
+    "tags": [
+      "PARTICIPATION MATTERS",
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "CLEAR GRADING CRITERIA",
+      "TESTS ARE TOUGH"
+    ]
+  },
+  {
+    "firstName": "Carolyn",
+    "lastName": "Jung",
+    "avgRating": 4.7,
+    "numRatings": 14,
+    "avgDifficulty": 1.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Business",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/489150"
+  },
+  {
+    "firstName": "Valerie",
+    "lastName": "Goines",
+    "avgRating": 4.4,
+    "numRatings": 22,
+    "avgDifficulty": 2.7,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Child Development",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1008462"
+  },
+  {
+    "firstName": "Gigi",
+    "lastName": "Clark",
+    "avgRating": 4.8,
+    "numRatings": 3,
+    "avgDifficulty": 2.3,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Computer Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1270608"
+  },
+  {
+    "firstName": "Gavin",
+    "lastName": "Deare",
+    "avgRating": 4.5,
+    "numRatings": 2,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "English",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2159570"
+  },
+  {
+    "firstName": "Gary",
+    "lastName": "Ciambrone",
+    "avgRating": 4.3,
+    "numRatings": 13,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Biology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/1688343"
+  },
+  {
+    "firstName": "Mona",
+    "lastName": "Abdoun",
+    "avgRating": 4.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Sociology",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2141704",
+    "tags": [
+      "GET READY TO READ",
+      "LOTS OF HOMEWORK",
+      "LECTURE HEAVY"
+    ]
+  },
+  {
+    "firstName": "Anissa",
+    "lastName": "Gawad",
+    "avgRating": 5.0,
+    "numRatings": 5,
+    "avgDifficulty": 1.6,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Accounting",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/957543",
+    "tags": [
+      "CARING",
+      "GET READY TO READ",
+      "AMAZING LECTURES"
+    ]
+  },
+  {
+    "firstName": "Blake",
+    "lastName": "Respini",
+    "avgRating": 2.9,
+    "numRatings": 3,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 0.0,
+    "department": "Political Science",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2042888",
+    "tags": [
+      "GROUP PROJECTS",
+      "TOUGH GRADER",
+      "GET READY TO READ",
+      "PARTICIPATION MATTERS",
+      "TESTS? NOT MANY"
+    ]
+  },
+  {
+    "firstName": "Mallory",
+    "lastName": "Stevens",
+    "avgRating": 5.0,
+    "numRatings": 1,
+    "avgDifficulty": 3.0,
+    "wouldTakeAgainPercent": 100.0,
+    "department": "Computer Information Systems",
+    "school": {
+      "name": "Ca\u00f1ada College",
+      "id": "2811"
+    },
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2150070",
+    "tags": [
+      "CLEAR GRADING CRITERIA",
+      "GIVES GOOD FEEDBACK",
+      "CARING"
+    ]
+  }
+]

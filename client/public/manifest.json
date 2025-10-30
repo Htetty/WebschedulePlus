@@ -11,7 +11,27 @@
       "service_worker": "background.js",
       "type": "module"
     },
+    "content_scripts": [
+      {
+        "matches": [
+          "https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/*"
+        ],
+        "js": ["contentScript.js"],
+        "run_at": "document_idle"
+      }
+    ],
     "permissions": [
       "sidePanel"
+    ],
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "ScrapedData/all_professors_Skyline.json",
+          "ScrapedData/all_professors_CSM.json",
+          "ScrapedData/all_professors_Canada.json"
+        ],
+        "matches": ["https://phx-ban-apps.smccd.edu/*", "https://*.smccd.edu/*"]
+      }
     ]
   }
+  

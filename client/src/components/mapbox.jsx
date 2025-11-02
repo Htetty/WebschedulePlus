@@ -3,8 +3,8 @@ import mapboxgl from "mapbox-gl";
 
 import "mapbox-gl/dist/mapbox-gl.css";
 import locationsData from "../assets/data/locations.json";
-import pinIcon from "../../shared/mappin.svg";
-import parkingIcon from "../../shared/parking.svg";
+import pinIcon from "../../shared/mappin.svg?url";
+import parkingIcon from "../../shared/parking.svg?url";
 
 function Mapbox() {
   const mapRef = useRef(null);
@@ -41,13 +41,21 @@ function Mapbox() {
       map.setMaxBounds(bounds);
     }
 
-    function createMarker(location, iconUrl) {
-      const el = document.createElement("div");
+    function createMarker(location, iconUrl, campusKey, type = "building") {
+      const el = document.createElement("img");
+      const finalIconUrl =
+        typeof iconUrl === "string" ? iconUrl : iconUrl.default || iconUrl;
+      el.src = finalIconUrl;
+      el.alt = `${location.name} marker`;
       el.className = "marker";
-      el.style.backgroundImage = `url(${iconUrl})`;
       el.style.width = "30px";
       el.style.height = "30px";
-      el.style.backgroundSize = "cover";
+      el.style.objectFit = "contain";
+      el.style.cursor = "pointer";
+      el.style.display = "block";
+      el.dataset.campusKey = campusKey || "";
+      el.dataset.buildingName = location.name || "";
+      el.dataset.type = type;
 
       return new mapboxgl.Marker(el)
         .setLngLat([location.lng, location.lat])
@@ -61,45 +69,147 @@ function Mapbox() {
         .addTo(map);
     }
 
-    function addMarkers(school) {
+    function addMarkers(school, campusKey) {
       setBounds(school.center);
       map.flyTo({ center: school.center, zoom: 17 });
 
       school.buildings.forEach((loc) => {
-        const marker = createMarker(loc, pinIcon);
+        const marker = createMarker(loc, pinIcon, campusKey);
         markersRef.current.push(marker);
       });
 
       school.studentParking.forEach((loc) => {
-        const marker = createMarker(loc, parkingIcon);
+        const marker = createMarker(loc, parkingIcon, campusKey, "parking");
         markersRef.current.push(marker);
       });
     }
 
+    let currentCampusKey = "skyline";
+
     map.on("load", () => {
       setBounds(locationsData.skyline.center);
-      addMarkers(locationsData.skyline);
+      addMarkers(locationsData.skyline, "skyline");
+    });
+
+    function closeAllPopups() {
+      const popups = document.querySelectorAll(".mapboxgl-popup");
+      popups.forEach((el) => el.remove());
+    }
+
+    function ensureCampusLoaded(targetCampusKey) {
+      if (currentCampusKey !== targetCampusKey) {
+        const target = locationsData[targetCampusKey];
+        if (target) {
+          addMarkers(target, targetCampusKey);
+          currentCampusKey = targetCampusKey;
+        }
+      }
+    }
+
+    function findBuildingByNameOrNumber(school, name) {
+      const n = (name || "").toLowerCase();
+      const list = school.buildings || [];
+
+      // exact
+      let b = list.find((x) => (x.name || "").toLowerCase() === n);
+      if (b) return b;
+
+      // contains
+      b = list.find((x) => (x.name || "").toLowerCase().includes(n));
+      if (b) return b;
+
+      // number match
+      const num = n.match(/\b\d+\b/)?.[0];
+      if (num) {
+        b = list.find((x) => new RegExp(`\\b${num}\\b`).test(x.name || ""));
+        if (b) return b;
+      }
+
+      // normalize "bldg/building"
+      const n2 = n.replace(/\b(bldg|building|bld)\.?/g, "").trim();
+      if (n2 && n2 !== n) {
+        b = list.find((x) => (x.name || "").toLowerCase().includes(n2));
+      }
+      return b || null;
+    }
+
+    function flyToBuilding(campusKey, buildingName) {
+      const school = locationsData[campusKey];
+      if (!school) return;
+
+      ensureCampusLoaded(campusKey);
+      closeAllPopups();
+
+      const building = findBuildingByNameOrNumber(school, buildingName);
+
+      if (!building) return;
+
+      map.flyTo({ center: [building.lng, building.lat], zoom: 18 });
+      const onMoveEnd = () => {
+        map.off("moveend", onMoveEnd);
+        const marker = markersRef.current.find((m) => {
+          const el = m.getElement?.();
+          return (
+            el &&
+            el.dataset?.type === "building" &&
+            el.dataset?.campusKey === campusKey &&
+            el.dataset?.buildingName?.toLowerCase?.() ===
+              (building.name || "").toLowerCase()
+          );
+        });
+        if (marker) {
+          marker.togglePopup();
+        }
+      };
+      map.on("moveend", onMoveEnd);
+    }
+
+    window.addEventListener("message", (e) => {
+      const msg = e.data;
+      if (!msg || msg.source !== "BetterWebSchedule") return;
+      if (msg.type === "flyToBuilding") {
+        const { campusKey, buildingName } = msg.payload || {};
+        flyToBuilding(campusKey, buildingName);
+      }
     });
 
     window.mapboxHandlers = {
       skyline: () => {
         clearMarkers();
-        addMarkers(locationsData.skyline);
+        addMarkers(locationsData.skyline, "skyline");
+        currentCampusKey = "skyline";
       },
       canada: () => {
         clearMarkers();
-        addMarkers(locationsData.canada);
+        addMarkers(locationsData.canada, "canada");
+        currentCampusKey = "canada";
       },
       csm: () => {
         clearMarkers();
-        addMarkers(locationsData.csm);
+        addMarkers(locationsData.csm, "csm");
+        currentCampusKey = "csm";
       },
+      flyToBuilding,
     };
+
+    let messageListener = null;
+    if (typeof chrome !== "undefined" && chrome.runtime?.onMessage) {
+      messageListener = (msg) => {
+        if (msg?.type === "flyToBuilding") {
+          const { campusKey, buildingName } = msg.payload || {};
+          flyToBuilding(campusKey, buildingName);
+        }
+      };
+      chrome.runtime.onMessage.addListener(messageListener);
+    }
 
     return () => {
       clearMarkers();
       map.remove();
       delete window.mapboxHandlers;
+      if (messageListener && chrome?.runtime?.onMessage) {
+        chrome.runtime.onMessage.removeListener(messageListener);
+      }
     };
   }, []);
 

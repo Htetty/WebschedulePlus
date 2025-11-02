@@ -10,23 +10,12 @@ export default defineConfig({
       targets: [
         { src: "public/manifest.json", dest: "." },
         { src: "public/background.js", dest: "." },
-        { src: "public/ScrapedData", dest: "." },
+        { src: "public/ScrapedData", dest: "ScrapedData" },
       ],
     }),
   ],
   build: {
     outDir: "../build",
     emptyOutDir: true,
-    assetsInlineLimit: 0,
-    rollupOptions: {
-      input: {
-        main: `${__dirname}/index.html`,
-      },
-      output: {
-        entryFileNames: "assets/[name].js",
-        assetFileNames: "assets/[name][extname]",
-        chunkFileNames: "assets/[name].js",
-      },
-    },
   },
 });

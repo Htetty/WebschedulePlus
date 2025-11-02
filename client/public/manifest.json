@@ -21,7 +21,7 @@
       "matches": [
         "https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/*"
       ],
-      "js": ["contentScript.js"],
+      "js": ["content.js"],
       "run_at": "document_idle"
     }
   ],
@@ -33,7 +33,7 @@
         "ScrapedData/all_professors_CSM.json",
         "ScrapedData/all_professors_Canada.json"
       ],
-      "matches": ["https://phx-ban-apps.smccd.edu/*", "https://*.smccd.edu/*"]
+      "matches": ["https://phx-ban-apps.smccd.edu/*", "https://%2A.smccd.edu/*"]
     }
   ]
 }

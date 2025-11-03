@@ -20,3 +20,17 @@ chrome.action.onClicked.addListener(async (tab) => {
     console.error("Failed to open side panel:", err);
   }
 });
+
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  if (
+    message &&
+    message.type === "openTab" &&
+    typeof message.url === "string"
+  ) {
+    try {
+      chrome.tabs.create({ url: message.url, active: true });
+    } catch (err) {
+      // no-op
+    }
+  }
+});

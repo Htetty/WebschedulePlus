@@ -21,7 +21,7 @@
       "matches": [
         "https://phx-ban-apps.smccd.edu/StudentRegistrationSsb/ssb/*"
       ],
-      "js": ["content.js"],
+      "js": ["content.js", "calendar.js"],
       "run_at": "document_idle"
     }
   ],

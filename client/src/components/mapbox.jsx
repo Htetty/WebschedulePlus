@@ -237,19 +237,19 @@ function Mapbox() {
       <div className="absolute top-4 z-10 grid grid-col left-5 gap-5 mapbox-controls">
         <button
           onClick={handleSkylineClick}
-          className="bg-[#F03D3A] text-md rounded-lg"
+          className="bg-[#F03D3A] rounded-lg py-3 px-8 text-white font-bold transition-all duration-500"
         >
           Skyline
         </button>
         <button
           onClick={handleCsmClick}
-          className="bg-[#004990] text-md rounded-lg"
+          className="bg-[#004990] rounded-lg py-3 px-8 text-white font-bold transition-all duration-500"
         >
           CSM
         </button>
         <button
           onClick={handleCanadaClick}
-          className="bg-[#205C40] rounded-lg text-md"
+          className="bg-[#205C40] rounded-lg py-3 px-8 text-white font-bold transition-all duration-500"
         >
           Canada
         </button>

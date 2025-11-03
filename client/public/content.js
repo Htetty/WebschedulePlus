@@ -80,6 +80,27 @@
             prof.wouldTakeAgainPercent >= 50 ? "green" : "red";
           const borderColor = "#ccc";
 
+          // tag colors and tags HTML
+          const tagColors = [
+            "#6c5ce7", // purple
+            "#00b894", // teal
+            "#fdcb6e", // yellow
+            "#0984e3", // blue
+            "#e17055", // orange
+            "#74b9ff", // light blue
+            "#fab1a0", // pink
+          ];
+
+          const tagsHTML =
+            prof.tags && prof.tags.length > 0
+              ? prof.tags
+                  .map((tag, i) => {
+                    const bg = tagColors[i % tagColors.length];
+                    return `<span class="tag" style="--bg:${bg}">${tag}</span>`;
+                  })
+                  .join("")
+              : `<span class="noTags">No tags</span>`;
+
           const closeBtn = document.querySelector(
             ".close.ui-icon.ui-icon-closethick"
           );
@@ -87,17 +108,72 @@
             closeBtn.style.zIndex = "9999";
           }
 
-          card.innerHTML = `
-              <div style="font-family:Segoe UI;font-size:13px;padding:10px 20px;margin-top:8px;display:flex;flex-direction:column;gap:6px;border:1px solid ${borderColor};color:#e0e0e0;">
-                <div>${ratingEmoji} <strong>${prof.avgRating}</strong> / 5 (${prof.numRatings} ratings)</div>
-                <div>${difficultyEmoji} Difficulty: <strong>${prof.avgDifficulty}</strong></div>
-                <div>👍 <span style="color:${wouldTakeColor};">Would take again: <strong>${prof.wouldTakeAgainPercent}%</strong></span></div>
-                <div>
-                  🔗 <a href="${prof.profileUrl}" target="_blank" style="color:#0073e6;text-decoration:none;font-weight:bold;">View on Rate My Professor</a>
-                </div>
-                <div style="font-size:12px;color:#aaa;">Data Last Updated: 04/01/2025</div>
-              </div>
-            `;
+          const shadow = card.shadowRoot || card.attachShadow({ mode: "open" });
+          shadow.innerHTML = `
+            <style>
+              :host { all: initial; }
+              .card {
+                font-family: Segoe UI, -apple-system, system-ui, Roboto, Arial, sans-serif;
+                font-size: 13px;
+                color: #222;
+                background: #fff;
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                padding: 12px 16px;
+                margin-top: 8px;
+                box-shadow: 0 2px 8px rgba(0,0,0,.08);
+                display: flex;
+                flex-direction: column;
+                gap: 8px;
+                max-width: 560px;
+              }
+              .row { display: flex; align-items: center; gap: 6px; color: #222; }
+              .muted { color: #666; font-size: 12px; }
+              .link a { color: #0073e6; text-decoration: none; font-weight: 600; }
+              .link a:hover { text-decoration: underline; }
+              .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 2px; }
+              .tag {
+                display: inline-block;
+                background: var(--bg, #6c5ce7);
+                color: #fff;
+                border-radius: 999px;
+                padding: 2px 8px;
+                font-size: 11px;
+                line-height: 1.4;
+                white-space: nowrap;
+              }
+              .noTags { color: #999; font-size: 12px; }
+              .emph { font-weight: 700; }
+            </style>
+            <div class="card">
+              <div class="row">${ratingEmoji} <span class="emph">${prof.avgRating}</span> / 5 (${prof.numRatings} ratings)</div>
+              <div class="row">${difficultyEmoji} Difficulty: <span class="emph">${prof.avgDifficulty}</span></div>
+              <div class="row">👍 <span style="color:${wouldTakeColor}">Would take again: <span class="emph">${prof.wouldTakeAgainPercent}%</span></span></div>
+              <div class="tags">${tagsHTML}</div>
+              <div class="link">🔗 <a href="${prof.profileUrl}" target="_blank" rel="noopener noreferrer">View on Rate My Professor</a></div>
+              <div class="muted">Data Last Updated: 11/03/2025</div>
+            </div>
+          `;
+
+          const linkEl = shadow.querySelector(".link a");
+          if (linkEl) {
+            linkEl.addEventListener("click", (ev) => {
+              ev.preventDefault();
+              ev.stopPropagation();
+              const url = linkEl.getAttribute("href");
+              if (!url) return;
+              if (
+                typeof chrome !== "undefined" &&
+                chrome.runtime?.sendMessage
+              ) {
+                chrome.runtime.sendMessage({ type: "openTab", url });
+              } else {
+                try {
+                  window.open(url, "_blank", "noopener");
+                } catch (_) {}
+              }
+            });
+          }
         } else {
           card.innerHTML = `
               <div style="font-family:Segoe UI;font-size:13px;padding:10px 14px;border-top:1px solid #ccc;margin-top:8px;">

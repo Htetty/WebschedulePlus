@@ -180,11 +180,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/966323",
-    "tags": [
-      "EXTRA CREDIT",
-      "TEST HEAVY",
-      "TOUGH GRADER"
-    ]
+    "tags": ["EXTRA CREDIT", "TEST HEAVY", "TOUGH GRADER"]
   },
   {
     "firstName": "Edgar",
@@ -568,7 +564,7 @@
     "lastName": "Flowers",
     "avgRating": 3.6,
     "numRatings": 133,
-    "avgDifficulty": 3.6,
+    "avgDifficulty": 3.5,
     "wouldTakeAgainPercent": 66.0,
     "department": "Chemistry",
     "school": {
@@ -671,10 +667,10 @@
   {
     "firstName": "Jeniece",
     "lastName": "Lusk",
-    "avgRating": 3.0,
+    "avgRating": 3.5,
     "numRatings": 3,
-    "avgDifficulty": 1.3,
-    "wouldTakeAgainPercent": 67.0,
+    "avgDifficulty": 1.5,
+    "wouldTakeAgainPercent": 75.0,
     "department": "Sociology",
     "school": {
       "name": "College of San Mateo",
@@ -683,8 +679,9 @@
     "profileUrl": "https://www.ratemyprofessors.com/professor/3041008",
     "tags": [
       "CLEAR GRADING CRITERIA",
-      "CARING",
-      "ONLINE SAVVY"
+      "ONLINE SAVVY",
+      "GET READY TO READ",
+      "CARING"
     ]
   },
   {
@@ -700,12 +697,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/998599",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "INSPIRATIONAL",
-      "HILARIOUS",
-      "CARING"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "INSPIRATIONAL", "HILARIOUS", "CARING"]
   },
   {
     "firstName": "Christopher",
@@ -1082,10 +1074,10 @@
   {
     "firstName": "Kathy",
     "lastName": "Diamond Diamond",
-    "avgRating": 2.3,
+    "avgRating": 2.0,
     "numRatings": 3,
-    "avgDifficulty": 3.7,
-    "wouldTakeAgainPercent": 34.0,
+    "avgDifficulty": 4.0,
+    "wouldTakeAgainPercent": 25.0,
     "department": "Biology",
     "school": {
       "name": "College of San Mateo",
@@ -1094,10 +1086,10 @@
     "profileUrl": "https://www.ratemyprofessors.com/professor/3015070",
     "tags": [
       "TOUGH GRADER",
+      "LECTURE HEAVY",
       "PARTICIPATION MATTERS",
       "EXTRA CREDIT",
-      "LOTS OF HOMEWORK",
-      "HILARIOUS"
+      "LOTS OF HOMEWORK"
     ]
   },
   {
@@ -1281,11 +1273,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2778802",
-    "tags": [
-      "INSPIRATIONAL",
-      "HILARIOUS",
-      "CARING"
-    ]
+    "tags": ["INSPIRATIONAL", "HILARIOUS", "CARING"]
   },
   {
     "firstName": "Anthony",
@@ -1605,10 +1593,10 @@
   {
     "firstName": "Ron",
     "lastName": "Richardson",
-    "avgRating": 4.2,
+    "avgRating": 4.0,
     "numRatings": 13,
     "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 77.0,
+    "wouldTakeAgainPercent": 72.0,
     "department": "English",
     "school": {
       "name": "College of San Mateo",
@@ -1734,7 +1722,7 @@
     "avgRating": 4.3,
     "numRatings": 21,
     "avgDifficulty": 2.9,
-    "wouldTakeAgainPercent": 86.0,
+    "wouldTakeAgainPercent": 82.0,
     "department": "Mathematics",
     "school": {
       "name": "College of San Mateo",
@@ -1742,8 +1730,8 @@
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2602768",
     "tags": [
-      "LOTS OF HOMEWORK",
       "CARING",
+      "LOTS OF HOMEWORK",
       "EXTRA CREDIT",
       "GIVES GOOD FEEDBACK",
       "ACCESSIBLE OUTSIDE CLASS"
@@ -1776,7 +1764,7 @@
     "avgRating": 2.8,
     "numRatings": 93,
     "avgDifficulty": 3.8,
-    "wouldTakeAgainPercent": 28.0,
+    "wouldTakeAgainPercent": 27.0,
     "department": "Biology",
     "school": {
       "name": "College of San Mateo",
@@ -2539,11 +2527,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/3055691",
-    "tags": [
-      "CLEAR GRADING CRITERIA",
-      "GIVES GOOD FEEDBACK",
-      "ONLINE SAVVY"
-    ]
+    "tags": ["CLEAR GRADING CRITERIA", "GIVES GOOD FEEDBACK", "ONLINE SAVVY"]
   },
   {
     "firstName": "Theresa",
@@ -2894,11 +2878,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/3025114",
-    "tags": [
-      "TOUGH GRADER",
-      "GET READY TO READ",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["TOUGH GRADER", "GET READY TO READ", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Kyra",
@@ -2913,11 +2893,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2929691",
-    "tags": [
-      "HILARIOUS",
-      "CARING",
-      "RESPECTED"
-    ]
+    "tags": ["HILARIOUS", "CARING", "RESPECTED"]
   },
   {
     "firstName": "Tyler",
@@ -3115,11 +3091,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2757567",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "LECTURE HEAVY",
-      "ONLINE SAVVY"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "LECTURE HEAVY", "ONLINE SAVVY"]
   },
   {
     "firstName": "L",
@@ -3155,11 +3127,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/216314",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "AMAZING LECTURES",
-      "HILARIOUS"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "AMAZING LECTURES", "HILARIOUS"]
   },
   {
     "firstName": "Ingrid",
@@ -3353,10 +3321,10 @@
   {
     "firstName": "Ron",
     "lastName": "Richardson",
-    "avgRating": 4.2,
+    "avgRating": 4.0,
     "numRatings": 13,
     "avgDifficulty": 3.1,
-    "wouldTakeAgainPercent": 77.0,
+    "wouldTakeAgainPercent": 72.0,
     "department": "English",
     "school": {
       "name": "College of San Mateo",
@@ -3487,10 +3455,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2952119",
-    "tags": [
-      "GET READY TO READ",
-      "EXTRA CREDIT"
-    ]
+    "tags": ["GET READY TO READ", "EXTRA CREDIT"]
   },
   {
     "firstName": "Dorothea",
@@ -3953,10 +3918,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2981362",
-    "tags": [
-      "TOUGH GRADER",
-      "GROUP PROJECTS"
-    ]
+    "tags": ["TOUGH GRADER", "GROUP PROJECTS"]
   },
   {
     "firstName": "Trimble",
@@ -4055,11 +4017,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/486980",
-    "tags": [
-      "TOUGH GRADER",
-      "PARTICIPATION MATTERS",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["TOUGH GRADER", "PARTICIPATION MATTERS", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "Kate",
@@ -4241,12 +4199,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1252801",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "CARING",
-      "INSPIRATIONAL",
-      "RESPECTED"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "CARING", "INSPIRATIONAL", "RESPECTED"]
   },
   {
     "firstName": "Alex",
@@ -4324,11 +4277,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2935949",
-    "tags": [
-      "LECTURE HEAVY",
-      "TEST HEAVY",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["LECTURE HEAVY", "TEST HEAVY", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Lilya",
@@ -4532,11 +4481,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2916150",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "LOTS OF HOMEWORK",
-      "HILARIOUS"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "LOTS OF HOMEWORK", "HILARIOUS"]
   },
   {
     "firstName": "Peter",
@@ -4719,11 +4664,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2912303",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL",
-      "CARING"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "INSPIRATIONAL", "CARING"]
   },
   {
     "firstName": "Bruce",
@@ -4780,11 +4721,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1898944",
-    "tags": [
-      "GET READY TO READ",
-      "INSPIRATIONAL",
-      "RESPECTED"
-    ]
+    "tags": ["GET READY TO READ", "INSPIRATIONAL", "RESPECTED"]
   },
   {
     "firstName": "Ami",
@@ -5048,11 +4985,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1785300",
-    "tags": [
-      "TOUGH GRADER",
-      "SKIP CLASS? YOU WON'T PASS.",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["TOUGH GRADER", "SKIP CLASS? YOU WON'T PASS.", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Lori",
@@ -5067,11 +5000,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2849383",
-    "tags": [
-      "CLEAR GRADING CRITERIA",
-      "GIVES GOOD FEEDBACK",
-      "CARING"
-    ]
+    "tags": ["CLEAR GRADING CRITERIA", "GIVES GOOD FEEDBACK", "CARING"]
   },
   {
     "firstName": "Peter",
@@ -5086,11 +5015,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2814978",
-    "tags": [
-      "CLEAR GRADING CRITERIA",
-      "RESPECTED",
-      "ONLINE SAVVY"
-    ]
+    "tags": ["CLEAR GRADING CRITERIA", "RESPECTED", "ONLINE SAVVY"]
   },
   {
     "firstName": "David",
@@ -5210,11 +5135,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2815118",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "CLEAR GRADING CRITERIA",
-      "CARING"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "CLEAR GRADING CRITERIA", "CARING"]
   },
   {
     "firstName": "Joe",
@@ -5460,11 +5381,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2492030",
-    "tags": [
-      "AMAZING LECTURES",
-      "HILARIOUS",
-      "SO MANY PAPERS"
-    ]
+    "tags": ["AMAZING LECTURES", "HILARIOUS", "SO MANY PAPERS"]
   },
   {
     "firstName": "Samuel",
@@ -5479,10 +5396,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1139254",
-    "tags": [
-      "GROUP PROJECTS",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["GROUP PROJECTS", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Christine",
@@ -5538,12 +5452,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2538652",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "RESPECTED",
-      "INSPIRATIONAL",
-      "CARING"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "RESPECTED", "INSPIRATIONAL", "CARING"]
   },
   {
     "firstName": "Rebecca",
@@ -5661,11 +5570,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2602813",
-    "tags": [
-      "TOUGH GRADER",
-      "CLEAR GRADING CRITERIA",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["TOUGH GRADER", "CLEAR GRADING CRITERIA", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Rory",
@@ -5868,11 +5773,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/67342",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "WOULD TAKE AGAIN",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "WOULD TAKE AGAIN", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "Marsha",
@@ -5887,11 +5788,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/839925",
-    "tags": [
-      "INSPIRATIONAL",
-      "CARING",
-      "RESPECTED"
-    ]
+    "tags": ["INSPIRATIONAL", "CARING", "RESPECTED"]
   },
   {
     "firstName": "Rafael",
@@ -5947,11 +5844,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/514595",
-    "tags": [
-      "TOUGH GRADER",
-      "LOTS OF HOMEWORK",
-      "SO MANY PAPERS"
-    ]
+    "tags": ["TOUGH GRADER", "LOTS OF HOMEWORK", "SO MANY PAPERS"]
   },
   {
     "firstName": "Cynthia",
@@ -6050,11 +5943,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/132739",
-    "tags": [
-      "INSPIRATIONAL",
-      "HILARIOUS",
-      "RESPECTED"
-    ]
+    "tags": ["INSPIRATIONAL", "HILARIOUS", "RESPECTED"]
   },
   {
     "firstName": "Melvin",
@@ -6069,10 +5958,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2686408",
-    "tags": [
-      "CLEAR GRADING CRITERIA",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["CLEAR GRADING CRITERIA", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Brenda",
@@ -6087,11 +5973,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2678999",
-    "tags": [
-      "GROUP PROJECTS",
-      "LECTURE HEAVY",
-      "ACCESSIBLE OUTSIDE CLASS"
-    ]
+    "tags": ["GROUP PROJECTS", "LECTURE HEAVY", "ACCESSIBLE OUTSIDE CLASS"]
   },
   {
     "firstName": "Tiina",
@@ -6189,12 +6071,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/877219",
-    "tags": [
-      "RESPECTED",
-      "AMAZING LECTURES",
-      "INSPIRATIONAL",
-      "HILARIOUS"
-    ]
+    "tags": ["RESPECTED", "AMAZING LECTURES", "INSPIRATIONAL", "HILARIOUS"]
   },
   {
     "firstName": "Tania",
@@ -6230,11 +6107,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2140036",
-    "tags": [
-      "AMAZING LECTURES",
-      "INSPIRATIONAL",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["AMAZING LECTURES", "INSPIRATIONAL", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Cheryl",
@@ -6375,10 +6248,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1148583",
-    "tags": [
-      "GET READY TO READ",
-      "PARTICIPATION MATTERS"
-    ]
+    "tags": ["GET READY TO READ", "PARTICIPATION MATTERS"]
   },
   {
     "firstName": "Martin",
@@ -6455,11 +6325,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/996566",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "CARING",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "CARING", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Renee",
@@ -6474,11 +6340,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1457863",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "HILARIOUS",
-      "ACCESSIBLE OUTSIDE CLASS"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "HILARIOUS", "ACCESSIBLE OUTSIDE CLASS"]
   },
   {
     "firstName": "John",
@@ -6514,11 +6376,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2025404",
-    "tags": [
-      "GET READY TO READ",
-      "GIVES GOOD FEEDBACK",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["GET READY TO READ", "GIVES GOOD FEEDBACK", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Michael",
@@ -6552,10 +6410,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2142627",
-    "tags": [
-      "TOUGH GRADER",
-      "SKIP CLASS? YOU WON'T PASS."
-    ]
+    "tags": ["TOUGH GRADER", "SKIP CLASS? YOU WON'T PASS."]
   },
   {
     "firstName": "Jesenia",
@@ -6653,11 +6508,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/491089",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "LOTS OF HOMEWORK",
-      "TEST HEAVY"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "LOTS OF HOMEWORK", "TEST HEAVY"]
   },
   {
     "firstName": "Linda",
@@ -6672,11 +6523,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/133692",
-    "tags": [
-      "LOTS OF HOMEWORK",
-      "CARING",
-      "ACCESSIBLE OUTSIDE CLASS"
-    ]
+    "tags": ["LOTS OF HOMEWORK", "CARING", "ACCESSIBLE OUTSIDE CLASS"]
   },
   {
     "firstName": "Siamack",
@@ -6899,10 +6746,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/806365",
-    "tags": [
-      "SO MANY PAPERS",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["SO MANY PAPERS", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Rosemary",
@@ -6938,11 +6782,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/660465",
-    "tags": [
-      "GET READY TO READ",
-      "SO MANY PAPERS",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["GET READY TO READ", "SO MANY PAPERS", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Alena",
@@ -6978,11 +6818,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2518894",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "GIVES GOOD FEEDBACK",
-      "RESPECTED"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "GIVES GOOD FEEDBACK", "RESPECTED"]
   },
   {
     "firstName": "Yuriy",
@@ -7018,11 +6854,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2367215",
-    "tags": [
-      "TOUGH GRADER",
-      "PARTICIPATION MATTERS",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["TOUGH GRADER", "PARTICIPATION MATTERS", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Jason",
@@ -7109,22 +6941,22 @@
   {
     "firstName": "Karen",
     "lastName": "Reed",
-    "avgRating": 2.4,
-    "numRatings": 53,
-    "avgDifficulty": 3.5,
-    "wouldTakeAgainPercent": 0.0,
-    "department": "Languages",
+    "avgRating": 1.8,
+    "numRatings": 5,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPercent": 20.0,
+    "department": "Communication",
     "school": {
       "name": "College of San Mateo",
       "id": "2811"
     },
-    "profileUrl": "https://www.ratemyprofessors.com/professor/165662",
+    "profileUrl": "https://www.ratemyprofessors.com/professor/2151163",
     "tags": [
       "TOUGH GRADER",
       "SKIP CLASS? YOU WON'T PASS.",
+      "GET READY TO READ",
       "PARTICIPATION MATTERS",
-      "LECTURE HEAVY",
-      "GRADED BY FEW THINGS"
+      "LOTS OF HOMEWORK"
     ]
   },
   {
@@ -7161,11 +6993,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2494676",
-    "tags": [
-      "GET READY TO READ",
-      "LECTURE HEAVY",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["GET READY TO READ", "LECTURE HEAVY", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Mike",
@@ -7363,11 +7191,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2367212",
-    "tags": [
-      "INSPIRATIONAL",
-      "HILARIOUS",
-      "CARING"
-    ]
+    "tags": ["INSPIRATIONAL", "HILARIOUS", "CARING"]
   },
   {
     "firstName": "Sandra",
@@ -7403,9 +7227,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1105304",
-    "tags": [
-      "SKIP CLASS? YOU WON'T PASS."
-    ]
+    "tags": ["SKIP CLASS? YOU WON'T PASS."]
   },
   {
     "firstName": "James",
@@ -7482,11 +7304,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/252268",
-    "tags": [
-      "AMAZING LECTURES",
-      "CLEAR GRADING CRITERIA",
-      "CARING"
-    ]
+    "tags": ["AMAZING LECTURES", "CLEAR GRADING CRITERIA", "CARING"]
   },
   {
     "firstName": "Denise",
@@ -7564,11 +7382,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/872385",
-    "tags": [
-      "SKIP CLASS? YOU WON'T PASS.",
-      "EXTRA CREDIT",
-      "TEST HEAVY"
-    ]
+    "tags": ["SKIP CLASS? YOU WON'T PASS.", "EXTRA CREDIT", "TEST HEAVY"]
   },
   {
     "firstName": "Jacqueline",
@@ -7598,11 +7412,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/983631",
-    "tags": [
-      "TOUGH GRADER",
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL"
-    ]
+    "tags": ["TOUGH GRADER", "GIVES GOOD FEEDBACK", "INSPIRATIONAL"]
   },
   {
     "firstName": "John",
@@ -7659,11 +7469,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2167097",
-    "tags": [
-      "WOULD TAKE AGAIN",
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL"
-    ]
+    "tags": ["WOULD TAKE AGAIN", "GIVES GOOD FEEDBACK", "INSPIRATIONAL"]
   },
   {
     "firstName": "Greg",
@@ -7699,11 +7505,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1213580",
-    "tags": [
-      "BEWARE OF POP QUIZZES",
-      "TEST HEAVY",
-      "GRADED BY FEW THINGS"
-    ]
+    "tags": ["BEWARE OF POP QUIZZES", "TEST HEAVY", "GRADED BY FEW THINGS"]
   },
   {
     "firstName": "Lyle",
@@ -7718,11 +7520,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1174808",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL",
-      "RESPECTED"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "INSPIRATIONAL", "RESPECTED"]
   },
   {
     "firstName": "Richard",
@@ -7737,11 +7535,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2293744",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "CARING",
-      "RESPECTED"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "CARING", "RESPECTED"]
   },
   {
     "firstName": "Erinn",
@@ -7832,10 +7626,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1975271",
-    "tags": [
-      "TOUGH GRADER",
-      "BEWARE OF POP QUIZZES"
-    ]
+    "tags": ["TOUGH GRADER", "BEWARE OF POP QUIZZES"]
   },
   {
     "firstName": "Paulette",
@@ -7891,11 +7682,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2156937",
-    "tags": [
-      "AMAZING LECTURES",
-      "INSPIRATIONAL",
-      "RESPECTED"
-    ]
+    "tags": ["AMAZING LECTURES", "INSPIRATIONAL", "RESPECTED"]
   },
   {
     "firstName": "Gail",
@@ -7910,11 +7697,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1884070",
-    "tags": [
-      "GET READY TO READ",
-      "LOTS OF HOMEWORK",
-      "CARING"
-    ]
+    "tags": ["GET READY TO READ", "LOTS OF HOMEWORK", "CARING"]
   },
   {
     "firstName": "Sandra",
@@ -8028,9 +7811,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/696581",
-    "tags": [
-      "PARTICIPATION MATTERS"
-    ]
+    "tags": ["PARTICIPATION MATTERS"]
   },
   {
     "firstName": "Erik",
@@ -8064,11 +7845,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/104155",
-    "tags": [
-      "AMAZING LECTURES",
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL"
-    ]
+    "tags": ["AMAZING LECTURES", "GIVES GOOD FEEDBACK", "INSPIRATIONAL"]
   },
   {
     "firstName": "Molly",
@@ -8124,10 +7901,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1844791",
-    "tags": [
-      "TOUGH GRADER",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["TOUGH GRADER", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "Juanita",
@@ -8163,11 +7937,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1193225",
-    "tags": [
-      "AMAZING LECTURES",
-      "INSPIRATIONAL",
-      "RESPECTED"
-    ]
+    "tags": ["AMAZING LECTURES", "INSPIRATIONAL", "RESPECTED"]
   },
   {
     "firstName": "Susan",
@@ -8182,9 +7952,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/18669",
-    "tags": [
-      "TOUGH GRADER"
-    ]
+    "tags": ["TOUGH GRADER"]
   },
   {
     "firstName": "James",
@@ -8199,10 +7967,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/616035",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "INSPIRATIONAL"]
   },
   {
     "firstName": "Lorena",
@@ -8280,11 +8045,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1731792",
-    "tags": [
-      "GET READY TO READ",
-      "PARTICIPATION MATTERS",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["GET READY TO READ", "PARTICIPATION MATTERS", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Ziba",
@@ -8320,11 +8081,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2174482",
-    "tags": [
-      "AMAZING LECTURES",
-      "HILARIOUS",
-      "CARING"
-    ]
+    "tags": ["AMAZING LECTURES", "HILARIOUS", "CARING"]
   },
   {
     "firstName": "Nancy",
@@ -8423,11 +8180,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1532324",
-    "tags": [
-      "AMAZING LECTURES",
-      "GIVES GOOD FEEDBACK",
-      "RESPECTED"
-    ]
+    "tags": ["AMAZING LECTURES", "GIVES GOOD FEEDBACK", "RESPECTED"]
   },
   {
     "firstName": "Shayeste",
@@ -8483,12 +8236,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/2138816",
-    "tags": [
-      "INSPIRATIONAL",
-      "CARING",
-      "WOULD TAKE AGAIN",
-      "RESPECTED"
-    ]
+    "tags": ["INSPIRATIONAL", "CARING", "WOULD TAKE AGAIN", "RESPECTED"]
   },
   {
     "firstName": "Linda",
@@ -8581,10 +8329,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/395212",
-    "tags": [
-      "TOUGH GRADER",
-      "GET READY TO READ"
-    ]
+    "tags": ["TOUGH GRADER", "GET READY TO READ"]
   },
   {
     "firstName": "Kelly",
@@ -8728,9 +8473,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/421873",
-    "tags": [
-      "LECTURE HEAVY"
-    ]
+    "tags": ["LECTURE HEAVY"]
   },
   {
     "firstName": "Natanella",
@@ -8766,10 +8509,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/399868",
-    "tags": [
-      "GET READY TO READ",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["GET READY TO READ", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Bill",
@@ -8784,10 +8524,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/564916",
-    "tags": [
-      "TOUGH GRADER",
-      "GET READY TO READ"
-    ]
+    "tags": ["TOUGH GRADER", "GET READY TO READ"]
   },
   {
     "firstName": "Dave",
@@ -8823,10 +8560,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1611823",
-    "tags": [
-      "TOUGH GRADER",
-      "LECTURE HEAVY"
-    ]
+    "tags": ["TOUGH GRADER", "LECTURE HEAVY"]
   },
   {
     "firstName": "Laura",
@@ -8841,11 +8575,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/423583",
-    "tags": [
-      "TOUGH GRADER",
-      "CLEAR GRADING CRITERIA",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["TOUGH GRADER", "CLEAR GRADING CRITERIA", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "Jett",
@@ -9018,11 +8748,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1722661",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "WOULD TAKE AGAIN",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "WOULD TAKE AGAIN", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "Sita",
@@ -9037,11 +8763,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1147251",
-    "tags": [
-      "GIVES GOOD FEEDBACK",
-      "INSPIRATIONAL",
-      "RESPECTED"
-    ]
+    "tags": ["GIVES GOOD FEEDBACK", "INSPIRATIONAL", "RESPECTED"]
   },
   {
     "firstName": "Anne",
@@ -9217,11 +8939,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/621959",
-    "tags": [
-      "TOUGH GRADER",
-      "GET READY TO READ",
-      "TESTS? NOT MANY"
-    ]
+    "tags": ["TOUGH GRADER", "GET READY TO READ", "TESTS? NOT MANY"]
   },
   {
     "firstName": "Ricky",
@@ -9256,11 +8974,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1904696",
-    "tags": [
-      "TOUGH GRADER",
-      "SKIP CLASS? YOU WON'T PASS.",
-      "LECTURE HEAVY"
-    ]
+    "tags": ["TOUGH GRADER", "SKIP CLASS? YOU WON'T PASS.", "LECTURE HEAVY"]
   },
   {
     "firstName": "Pat",
@@ -9275,9 +8989,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/153509",
-    "tags": [
-      "WOULD TAKE AGAIN"
-    ]
+    "tags": ["WOULD TAKE AGAIN"]
   },
   {
     "firstName": "Kenneth",
@@ -9292,11 +9004,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/87797",
-    "tags": [
-      "TOUGH GRADER",
-      "SKIP CLASS? YOU WON'T PASS.",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["TOUGH GRADER", "SKIP CLASS? YOU WON'T PASS.", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "Richard",
@@ -9311,11 +9019,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/337102",
-    "tags": [
-      "PARTICIPATION MATTERS",
-      "WOULD TAKE AGAIN",
-      "LOTS OF HOMEWORK"
-    ]
+    "tags": ["PARTICIPATION MATTERS", "WOULD TAKE AGAIN", "LOTS OF HOMEWORK"]
   },
   {
     "firstName": "J",
@@ -9351,11 +9055,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/353096",
-    "tags": [
-      "TOUGH GRADER",
-      "AMAZING LECTURES",
-      "CARING"
-    ]
+    "tags": ["TOUGH GRADER", "AMAZING LECTURES", "CARING"]
   },
   {
     "firstName": "Ramsey",
@@ -9370,9 +9070,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1610229",
-    "tags": [
-      "EXTRA CREDIT"
-    ]
+    "tags": ["EXTRA CREDIT"]
   },
   {
     "firstName": "C",
@@ -9423,11 +9121,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1902989",
-    "tags": [
-      "WOULD TAKE AGAIN",
-      "HILARIOUS",
-      "RESPECTED"
-    ]
+    "tags": ["WOULD TAKE AGAIN", "HILARIOUS", "RESPECTED"]
   },
   {
     "firstName": "Martha",
@@ -9442,10 +9136,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/415648",
-    "tags": [
-      "WOULD TAKE AGAIN",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["WOULD TAKE AGAIN", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "Kathryn",
@@ -9479,11 +9170,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1737184",
-    "tags": [
-      "TOUGH GRADER",
-      "SKIP CLASS? YOU WON'T PASS.",
-      "GROUP PROJECTS"
-    ]
+    "tags": ["TOUGH GRADER", "SKIP CLASS? YOU WON'T PASS.", "GROUP PROJECTS"]
   },
   {
     "firstName": "Lisa",
@@ -10044,10 +9731,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/1210033",
-    "tags": [
-      "CLEAR GRADING CRITERIA",
-      "GIVES GOOD FEEDBACK"
-    ]
+    "tags": ["CLEAR GRADING CRITERIA", "GIVES GOOD FEEDBACK"]
   },
   {
     "firstName": "John",
@@ -10582,11 +10266,7 @@
       "id": "2811"
     },
     "profileUrl": "https://www.ratemyprofessors.com/professor/399865",
-    "tags": [
-      "EXTRA CREDIT",
-      "WOULD TAKE AGAIN",
-      "CARING"
-    ]
+    "tags": ["EXTRA CREDIT", "WOULD TAKE AGAIN", "CARING"]
   },
   {
     "firstName": "Douglas",

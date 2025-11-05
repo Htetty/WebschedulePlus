@@ -9,7 +9,6 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -65,19 +64,8 @@ h1 {
 .mapboxgl-popup-content {
   padding: 12px 30px 12px 15px !important;
   border-radius: 10px !important;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+  background-color: white !important;
+  color: black !important;
 }
 
 .mapbox-controls button:hover {

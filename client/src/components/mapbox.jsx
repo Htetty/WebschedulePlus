@@ -3,7 +3,10 @@ import mapboxgl from "mapbox-gl";
 
 import "mapbox-gl/dist/mapbox-gl.css";
 import locationsData from "../assets/data/locations.json";
-import pinIcon from "../../shared/mappin.svg?url";
+import csmpinIcon from "../../shared/mappin_csm.svg?url";
+import skylinepinIcon from "../../shared/mappin_skyline.svg?url";
+import canadaPinIcon from "../../shared/mappin_canada.svg?url";
+
 import parkingIcon from "../../shared/parking.svg?url";
 
 function Mapbox() {
@@ -69,14 +72,23 @@ function Mapbox() {
         .addTo(map);
     }
 
+    const campusIcons = {
+      skyline: skylinepinIcon,
+      csm: csmpinIcon,
+      canada: canadaPinIcon,
+    };
+
     function addMarkers(school, campusKey) {
       setBounds(school.center);
       map.flyTo({ center: school.center, zoom: 17 });
 
-      school.buildings.forEach((loc) => {
-        const marker = createMarker(loc, pinIcon, campusKey);
-        markersRef.current.push(marker);
-      });
+      const icon = campusIcons[campusKey];
+      if (icon) {
+        school.buildings.forEach((loc) => {
+          const marker = createMarker(loc, icon, campusKey);
+          markersRef.current.push(marker);
+        });
+      }
 
       school.studentParking.forEach((loc) => {
         const marker = createMarker(loc, parkingIcon, campusKey, "parking");

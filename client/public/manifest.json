@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Webschedule+",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enhances WebSchedule to better help community college students from SMCCCD",
   "icons": {
     "16": "icons/icon16.png",

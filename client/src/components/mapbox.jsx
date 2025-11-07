@@ -1,4 +1,4 @@
-import { useRef, useEffect } from "react";
+import { useRef, useState, useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 
 import "mapbox-gl/dist/mapbox-gl.css";
@@ -13,6 +13,7 @@ function Mapbox() {
   const mapRef = useRef(null);
   const mapContainerRef = useRef(null);
   const markersRef = useRef([]);
+  const [activeCampus, setActiveCampus] = useState(null);
 
   useEffect(() => {
     if (!mapContainerRef.current) return;
@@ -225,47 +226,52 @@ function Mapbox() {
     };
   }, []);
 
-  const handleSkylineClick = () => {
-    if (window.mapboxHandlers?.skyline) {
-      window.mapboxHandlers.skyline();
-    }
-  };
-
-  const handleCanadaClick = () => {
-    if (window.mapboxHandlers?.canada) {
-      window.mapboxHandlers.canada();
-    }
-  };
-
-  const handleCsmClick = () => {
-    if (window.mapboxHandlers?.csm) {
-      window.mapboxHandlers.csm();
+  const handleClick = (campus) => {
+    setActiveCampus(campus);
+    if (window.mapboxHandlers?.[campus]) {
+      window.mapboxHandlers[campus]();
     }
   };
 
   return (
     <div className="relative w-full h-full">
       <div ref={mapContainerRef} className="w-full h-full" />
-      <div className="absolute top-4 z-10 grid grid-col left-5 gap-5 mapbox-controls">
+      <div className="absolute top-4 left-5 z-10 grid grid-cols-1 gap-5 mapbox-controls">
         <button
-          onClick={handleSkylineClick}
-          className="bg-[#F03D3A] rounded-lg py-3 px-8 text-white font-bold transition-all duration-500"
+            onClick={() => handleClick("skyline")}
+            className={`rounded-md py-2.5 px-7 text-white font-semibold transition-all duration-200 border ${
+            activeCampus === "skyline"
+                ? "bg-[#F03D3A] border-white/60 brightness-110 shadow-md"
+                : "bg-[#F03D3A]/80 hover:bg-[#F03D3A] hover:brightness-110 border-transparent opacity-80"
+            }`}
         >
-          Skyline
+            Skyline
         </button>
+
         <button
-          onClick={handleCsmClick}
-          className="bg-[#004990] rounded-lg py-3 px-8 text-white font-bold transition-all duration-500"
+            onClick={() => handleClick("csm")}
+            className={`rounded-md py-2.5 px-7 text-white font-semibold transition-all duration-200 border ${
+            activeCampus === "csm"
+                ? "bg-[#004990] border-white/60 brightness-110 shadow-md"
+                : "bg-[#004990]/80 hover:bg-[#004990] hover:brightness-110 border-transparent opacity-80"
+            }`}
         >
-          CSM
+            CSM
         </button>
+
         <button
-          onClick={handleCanadaClick}
-          className="bg-[#205C40] rounded-lg py-3 px-8 text-white font-bold transition-all duration-500"
+            onClick={() => handleClick("canada")}
+            className={`rounded-md py-2.5 px-7 text-white font-semibold transition-all duration-200 border ${
+            activeCampus === "canada"
+                ? "bg-[#205C40] border-white/60 brightness-110 shadow-md"
+                : "bg-[#205C40]/80 hover:bg-[#205C40] hover:brightness-110 border-transparent opacity-80"
+            }`}
         >
-          Canada
+            Canada
         </button>
-      </div>
+</div>
+
+
     </div>
   );
 }

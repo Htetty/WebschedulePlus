@@ -13,7 +13,7 @@ function Mapbox() {
   const mapRef = useRef(null);
   const mapContainerRef = useRef(null);
   const markersRef = useRef([]);
-  const [activeCampus, setActiveCampus] = useState(null);
+  const [activeCampus, setActiveCampus] = useState('skyline');
 
   useEffect(() => {
     if (!mapContainerRef.current) return;
